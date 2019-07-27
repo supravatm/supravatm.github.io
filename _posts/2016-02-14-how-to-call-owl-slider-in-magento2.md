@@ -63,8 +63,19 @@ Now you can use owlcarousel under any phtml file,
 
 And add javascript in bootom of the same page
 
-
-
+{% highlight ruby %}
+(function  () {
+    require(["jquery","owlcarousel"],function($) {
+        $(document).ready(function() {
+            $("#owlslider").owlCarousel({
+                navigation : true, // Show next and prev buttons
+                autoPlay: false, //Set AutoPlay to 3 seconds 
+                items : 5
+            });
+        });
+    });
+})();
+{% endhighlight %}
 
 ### Note:
 

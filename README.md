@@ -1,10 +1,9 @@
 ## My Stack Problems
 
-> This project forked and has been modified from [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll),
-> and the search posts using [Super Search](https://github.com/chinchang/super-search)
+> This project has been develop for a static blogging website.
 
-### Demo
-* [https://agusmakmun.github.io](https://agusmakmun.github.io)
+### Website
+* [https://supravatm.github.io](https://supravatm.github.io)
 
 #### Features
 
@@ -23,7 +22,7 @@
 
 #### Screenshot
 
-![Screenshot Post Page](https://raw.githubusercontent.com/agusmakmun/agusmakmun.github.io/master/static/img/screenshot-post-page.png  "Screenshot Post Page")
+![Screenshot Post Page](https://i.imgur.com/hvUCVGf.jpg  "Screenshot Post Page")
 
 ### Install & Configuration
 
@@ -69,4 +68,4 @@ image: Broadcast_Mail.png             # (custom) image only for meta `property="
 
 ### Contributing
 
-Feel free to [open a bug](https://github.com/agusmakmun/agusmakmun.github.io/issues) or [contribute to code](https://github.com/agusmakmun/agusmakmun.github.io/pulls)!
+Feel free to [open a bug](https://github.com/supravatm/supravatm.github.io/issues) or [contribute to code](https://github.com/supravatm/supravatm.github.io/pulls)!

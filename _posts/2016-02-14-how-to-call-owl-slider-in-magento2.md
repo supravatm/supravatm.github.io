@@ -23,7 +23,7 @@ Call css inside your tempalte file using,
 
 {% highlight ruby %}
 <link rel="stylesheet" type="text/css" href="<?php echo $block->getViewFileUrl('Magento_Catalog::css/owlcarousel.css')?>">
-```
+{% endhighlight %}
 
 Now create **requirejs-config.js** file
 

@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I am Software Developer with multiple framework skills like PHP, Magento 1, Magento 2, Laravel, CakePHP, API Integration(SOAP, REST, SAP) Jquery, Ajax, Javascript and many more to learn.
 
-email: agus[at]python.web.id
+
+Email: supravat.com@gmail.com
+
+

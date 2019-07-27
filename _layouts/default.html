@@ -98,7 +98,15 @@ layout: compress
     <link rel="stylesheet" href="/static/css/thickbox.css">
     <link rel="stylesheet" href="/static/css/projects.css">
     <link rel="stylesheet" href="/static/css/main.css">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144666263-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-144666263-1');
+</script>
     {% if jekyll.environment == "production" %}
       <!-- Google Analytics -->
       <script>

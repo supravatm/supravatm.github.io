@@ -69,7 +69,7 @@ And add javascript in bootom of the same page
         $(document).ready(function() {
             $("#owlslider").owlCarousel({
                 navigation : true, // Show next and prev buttons
-                autoPlay: false, //Set AutoPlay to 3 seconds 
+                autoPlay: false, //Set AutoPlay to 3 seconds
                 items : 5
             });
         });
@@ -80,6 +80,3 @@ And add javascript in bootom of the same page
 ### Note:
 
 Remove **pub/static** folder content and run following command from terminal ```php bin/magento setup:static-content:deploy ``` .
-
-
-

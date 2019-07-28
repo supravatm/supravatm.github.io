@@ -79,7 +79,7 @@ And add javascript in bootom of the same page
 
 ### Note:
 
-Remove **pub/static** folder content and run following command from terminal ```php php bin/magento setup:static-content:deploy ``` .
+Remove **pub/static** folder content and run following command from terminal ```php bin/magento setup:static-content:deploy ``` .
 
 
 

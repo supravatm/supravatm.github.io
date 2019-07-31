@@ -58,9 +58,9 @@ sudo killall varnishd
 ```
 
 
-  /etc/init.d/varnish status
+  sudo /etc/init.d/varnish status
   OR
-  service varnish status
+  sudo service varnish status
   
 ```
 
@@ -68,7 +68,7 @@ sudo killall varnishd
 
 ```
 
-varnishd -d -f /etc/varnish/default.vcl
+sudo varnishd -d -f /etc/varnish/default.vcl
 
 ```
 
@@ -88,7 +88,7 @@ Log in to the Varnish server and enter the following command:
 
 ```
 
-netstat -tulpn
+sudo netstat -tulpn
 
 ```
 
@@ -96,10 +96,10 @@ Look for the following output in particular:
 
 ```
 
-tcp        0      0 0.0.0.0:80                  0.0.0.0:*                   LISTEN      32614/varnishd
-tcp        0      0 127.0.0.1:58484             0.0.0.0:*                   LISTEN      32604/varnishd
-tcp        0      0 :::8080                     :::*                        LISTEN      26822/httpd
-tcp        0      0 ::1:48509                   :::*                        LISTEN      32604/varnishd
+tcp        0      0 0.0.0.0:80                  0.0.0.0:*               LISTEN      32614/varnishd
+tcp        0      0 127.0.0.1:58484             0.0.0.0:*               LISTEN      32604/varnishd
+tcp        0      0 :::8080                     :::*                    LISTEN      26822/httpd
+tcp        0      0 ::1:48509                   :::*                    LISTEN      32604/varnishd
 
 
 ```
@@ -123,7 +123,7 @@ Start up your web server and then start varnish:
 
 ```
 
-varnishd -f /usr/local/etc/varnish/default.vcl -s malloc,1G -T 127.0.0.1:2000
+sudo varnishd -f /usr/local/etc/varnish/default.vcl -s malloc,1G -T 127.0.0.1:2000
 
 ```
 
@@ -133,7 +133,7 @@ sudo apt-get remove --auto-remove varnish
 sudo apt-get purge --auto-remove varnish
 ```
 
-reference link
+##Reference link
 
 [Installing and configuring Varnish](https://www.varnish-software.com/wiki/content/tutorials/varnish/varnish_ubuntu.html)
 

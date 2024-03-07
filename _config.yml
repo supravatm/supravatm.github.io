@@ -1,5 +1,37 @@
 title: Supravat Mondal
-logo: /assets/img/headshot_circle.png
-#description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+logo: /assets/img/logo.webp
+email: supravat.com@gmail.com
+description: SDE @ Open. Python Developer. Machine Learning.
+favicon: true
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+color-scheme: light
+
+google_analytics: G-0RXV630V8X
+
+url: "https://vaibhavvikas.ml/"
+
+plugins:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+platforms:
+  - name: Résumé
+    icon: <i class="fa-solid fa-file-lines"></i>
+    link: ./assets/files/vaibhav_vikas.pdf
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/vaibhavvikas
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/vaibhavvikas
+  - name: Projects
+    icon: <i class="fa-solid fa-file-code"></i>
+    link: ./projects
+  - name: Certifications
+    icon: <i class="fa-solid fa-award"></i>
+    link: ./certifications
+  - name: Open Source
+    icon: <i class="fa-solid fa-ghost"></i>
+    link: ./open-source

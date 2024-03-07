@@ -1,0 +1,11 @@
+<div class="header-title">
+    {% include header-title.html %}
+</div>
+
+<div class="header-title-mobile">
+    {% include header-title-mobile.html %}
+</div>
+
+<p>{{ site.description | default: site.github.project_tagline }}</p>
+
+{% include sidebar.html %}

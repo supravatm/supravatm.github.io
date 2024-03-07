@@ -3,9 +3,9 @@ layout: default
 ---
 ## About Me:
 
-I am **Vaibhav Vikas**, a software developer from **NIT Trichy, India**. I have a great experience in Python, Go, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
+I am **Supravat Mondal**, a software developer from **Vidyasagar University, India**. I have a great experience in Adobe Commerce and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
 
-I am currently a **Software Developer Engineer** at **Open Financial Technologies Pvt. Ltd.** (Bengaluru, Karnataka), where I am working on [Zwitch](https://www.zwitch.io/).
+I am currently a **Software Developer Engineer** at **.** (Kolkata), where I am working on [Tech Mahindra](https://www.techmahindra.com/en-in/).
 
 I developed a keen interest in Machine Learning so I have started studying and implementing different algorithms and analysing various datasets and started competitions on Kaggle.
 
@@ -70,7 +70,7 @@ July 2021 - September 2022</p>
 </ul>
 
 ---
-  
+
 ## Internships:
 
 <h3 style="margin-bottom:2px;">BNY Mellon Technology Pvt. Ltd.</h3>
@@ -81,7 +81,7 @@ Jan 2021 - June 2021</p>
   <li>Worked on creating Microservices using Flask to get various model details and trigger its execution.</li>
   <li>Worked in different deployment environments (Dev, UAT, Prod).</li>
 </ul>  
-  
+
 <h3 style="margin-bottom:2px;">BNY Mellon Technology Pvt. Ltd.</h3>
 <p style="margin:0;"><b>Software Developer Intern</b><br>
 May 2020 - July 2020</p>
@@ -142,7 +142,7 @@ May 2020 - July 2020</p>
 ## Publications:
 
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0147957122000728">Global epidemiology of CTX-M-type β-lactam resistance in human and animal</a></h3>
-<p style="margin:0;"><b>Chanchal Rana, ..., Vaibhav Vikas, <i>et al</i>.</b><br>
+<p style="margin:0;"><b>Chanchal Rana, ..., , <i>et al</i>.</b><br>
 Comparative Immunology, Microbiology, and Infectious Diseases.<br>
 Volume 86, July 2022, 101815.<br>
 Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.1016/j.cimid.2022.101815</a></p>

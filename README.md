@@ -1,6 +1,6 @@
-# Data Scientist
+# Senior Software Engineer | Magento 2 Backend
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: PHP, Magento2, SQL, Javascript
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		

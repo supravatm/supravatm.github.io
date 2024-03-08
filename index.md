@@ -3,25 +3,18 @@ layout: default
 ---
 ## About Me:
 
-I am **Supravat Mondal**, a software developer from **Vidyasagar University, India**. I have a great experience in Adobe Commerce and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
+I have over 12 years of experience in increasingly responsible roles as a software developer in the field of e-commerce websites. I have vast experience in e-commerce (Magento 2) web application development. As a Magento2 developer, I provided module development, third-party API integration through REST and SOAP APIs, front-end and backend module creation and troubleshooting, and researched and analyzed issues to solve problems. a proven track record of delivering high-quality, scalable, and secure eCommerce solutions on time.
 
-I am currently a **Software Developer Engineer** at **.** (Kolkata), where I am working on [Tech Mahindra](https://www.techmahindra.com/en-in/).
 
-I developed a keen interest in Machine Learning so I have started studying and implementing different algorithms and analysing various datasets and started competitions on Kaggle.
+I'm currently working as a **Senior Software Engineer**  at [Tech Mahindra](https://www.techmahindra.com/en-in/) in Kolkata.
 
 ---
 
 ## Education:
 
-<h3 style="margin-bottom:2px;">Master of Computer Applications</h3>
-<h4 style="margin:0;">National Institute of Technology, Tiruchirappalli (NIT Trichy)</h4>
-August 2018 - July 2021\
-CGPA: 9.14/10.0
-
-<h3 style="margin-bottom:2px;">Bachelors of Science (Hons.) Mathematics</h3>
-<h4 style="margin:0;">P.G.D.A.V. College (Eve.), University of Delhi (DU)</h4>
-July 2014 - June 2017\
-Percentage: 68.73%
+<h3 style="margin-bottom:2px;">Bachelor of Computer Applications (BCA)</h3>
+<h4 style="margin:0;">Midnapore College</h4>
+August 2008 - 2011\
 
 ---
 

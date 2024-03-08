@@ -3,8 +3,9 @@ layout: default
 ---
 ## About Me:
 
-I have over 12 years of experience in increasingly responsible roles as a software developer in the field of e-commerce websites. I have vast experience in e-commerce (Magento 2) web application development. As a Magento2 developer, I provided module development, third-party API integration through REST and SOAP APIs, front-end and backend module creation and troubleshooting, and researched and analyzed issues to solve problems. a proven track record of delivering high-quality, scalable, and secure eCommerce solutions on time.
+I have over 12 years of experience in increasingly responsible roles as a software developer in the field of e-commerce websites. I have vast experience in e-commerce (Magento 2) web application development.
 
+As a Magento2 developer, I provided module development, third-party API integration through REST and SOAP APIs, front-end and backend module creation and troubleshooting, and researched and analyzed issues to solve problems. a proven track record of delivering high-quality, scalable, and secure eCommerce solutions on time.
 
 I'm currently working as a **Senior Software Engineer**  at [Tech Mahindra](https://www.techmahindra.com/en-in/) in Kolkata.
 
@@ -14,7 +15,7 @@ I'm currently working as a **Senior Software Engineer**  at [Tech Mahindra](http
 
 <h3 style="margin-bottom:2px;">Bachelor of Computer Applications (BCA)</h3>
 <h4 style="margin:0;">Midnapore College</h4>
-August 2008 - 2011\
+Session 2008 - 2011
 
 ---
 

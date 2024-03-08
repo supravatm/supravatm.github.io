@@ -21,6 +21,17 @@ Session 2008 - 2011
 
 ## Skills:
 
+#### Core Competencies :
+- Magento 2 Development
+- Custom Module Development
+- Theme Customization and Integration
+- Performance Optimization
+- Version Control (Git)
+- Third-party Extension Integration
+- Payment Gateway Integration
+- PHP, HTML, CSS, JavaScript, MySQL, Zend Framework
+- API Integrations
+
 <h4 style="margin-bottom:2px;">Programming Languages:</h4>
 <p style="margin-bottom:4px;">&#x2022;PHP &#x2022; Ajax &#x2022; HTML &#x2022; CSS &#x2022; JavaScript &#x2022; jQuery </p>
 

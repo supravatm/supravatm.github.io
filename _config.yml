@@ -29,9 +29,3 @@ platforms:
   - name: Projects
     icon: <i class="fa-solid fa-file-code"></i>
     link: ./projects
-  - name: Certifications
-    icon: <i class="fa-solid fa-award"></i>
-    link: ./certifications
-  - name: Open Source
-    icon: <i class="fa-solid fa-ghost"></i>
-    link: ./open-source

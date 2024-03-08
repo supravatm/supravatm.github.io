@@ -39,11 +39,11 @@ Session 2008 - 2011
 <h4 style="margin-bottom:2px; margin-top:2px;">Web Server:</h4>
 <p style="margin-bottom:20px;">&#x2022; Apache &#x2022; Nginx</p>
 
-<h4 style="margin-bottom:2px; margin-top:2px;">Web Server:</h4>
-<p style="margin-bottom:20px;">&#x2022; phpStorm &#x2022; netbeans &#x2022; Geany &#x2022; Vim</p>
+<h4 style="margin-bottom:2px; margin-top:2px;">IDE:</h4>
+<p style="margin-bottom:20px;">&#x2022; phpStorm &#x2022; NetBeans &#x2022; Geany &#x2022; Vim</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Others:</h4>
-<p style="margin-bottom:20px;">&#x2022; Git &#x2022; GitLab &#x2022; Github &#x2022; CI/CD &#x2022; Redis &#x2022; Docker</p>
+<p style="margin-bottom:20px;">&#x2022; Git &#x2022; GitLab &#x2022; Github &#x2022; Redis &#x2022; Docker</p>
 
 ---
 
@@ -64,27 +64,6 @@ July 2021 - September 2022</p>
   <li>Worked on CCAR on various Python Risk Models like CMM (Commercial Mortgage Metrics) and, their workflow implementation via Apache Airflow.</li>
   <li>Worked on Data Extractor to create templates and further extract the data from the database using Python, Flask, and Angular.</li>
   <li>Involved in company's private tools for CI/CD, application monitoring, error logging, and server deployment.</li>
-</ul>
-
----
-
-## Internships:
-
-<h3 style="margin-bottom:2px;">BNY Mellon Technology Pvt. Ltd.</h3>
-<p style="margin:0;"><b>Software Developer Intern</b><br>
-Jan 2021 - June 2021</p>
-<ul style="margin-left: -1.4em;">
-  <li>Worked on CCAR Dashboard to design the end-to-end flow of Model Execution from the UI using Angular.</li>
-  <li>Worked on creating Microservices using Flask to get various model details and trigger its execution.</li>
-  <li>Worked in different deployment environments (Dev, UAT, Prod).</li>
-</ul>  
-
-<h3 style="margin-bottom:2px;">BNY Mellon Technology Pvt. Ltd.</h3>
-<p style="margin:0;"><b>Software Developer Intern</b><br>
-May 2020 - July 2020</p>
-<ul style="margin-left: -1.4em;">
-  <li>Worked on Cognitive Agent to automate various employee related tasks with RASA framework in Python.</li>
-  <li>Worked on UI in Angular and Microservices using Java Spring Boot to process the requests.</li>
 </ul>
 
 ---
@@ -115,55 +94,3 @@ May 2020 - July 2020</p>
 [... See all projects](./projects)
 
 ---
-
-## Certifications:
-
-<div class="card">
-  <h3>Google Go Specialization</h3>
-  <p><b>Coursera</b>, October 2022<br>
-  Credential Id: XPZSRCAJNPX2</p>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/XPZSRCAJNPX2"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
-  <h3>Python Specialization</h3>
-  <p><b>Coursera</b>, August 2020<br>
-  Credential Id: 5JHL6J6K4EKL</p>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/5JHL6J6K4EKL"><span class="card-link-spanner"></span></a>
-</div>
-
-[... See all certifications](./certifications)
-
----
-
-## Publications:
-
-<h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0147957122000728">Global epidemiology of CTX-M-type β-lactam resistance in human and animal</a></h3>
-<p style="margin:0;"><b>Chanchal Rana, ..., , <i>et al</i>.</b><br>
-Comparative Immunology, Microbiology, and Infectious Diseases.<br>
-Volume 86, July 2022, 101815.<br>
-Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.1016/j.cimid.2022.101815</a></p>
-<ul style="margin-left: -1.4em;">
-  <li>Worked on fetching 2100+ nucleotides sequence from NCBI by its accession number using Python, Selenium and Beautifulsoup.</li>
-  <li>Worked on various utilities such as generating the heat map using Python and d3.js.</li>
-</ul>
-
----
-
-## Achievements:
-
-<h4 style="margin-bottom:5px;">Academic Achievements:</h4>
-<ul style="margin-left: -1.4em;">
-  <li>Secured AIR 1 in BIT MCA, AIR 3 in NIMCET, AIR 4 in Pune University, and AIR 10 in BHU All India MCA Entrance Exam in 2018.</li>
-  <li>Winner, KLA+ Cloud Storage Challenge’20 at NIT Tiruchirappalli.</li>
-  <li>Winner, Datathon in Login’19 at PSG College, Coimbatore, Tamil Nadu.</li>
-  <li>Secured 2nd Position in Al-Go-Code in Login’19 at PSG College, Coimbatore, Tamil Nadu.</li>
-  <li>Secured 2nd Position in Weave-o-Web in Infotrek’19 at NIT Trichy.</li>
-</ul>
-
-<h4 style="margin-bottom:5px;">Extra Curricular Activities:</h4>
-<ul style="margin-left: -1.4em;">
-  <li>Secured 2nd Position in Graffiti Designing in NITTFEST’19 at NIT Tiruchirappalli.</li>
-  <li>Secured 2nd Position in Wall Painting in NITTFEST’19 at NIT Tiruchirappalli.</li>
-  <li>Secured 2nd Position in Group Street Dance in Rendezvous’14 at IIT Delhi.</li>
-</ul>

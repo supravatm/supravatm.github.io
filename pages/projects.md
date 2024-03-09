@@ -17,7 +17,7 @@ permalink: /projects
 </div>
 
 <div class="card">
-  <h3>crocs.in/</h3>
+  <h3>crocs.in</h3>
   <p><b>Magento 2(Commerce), Cloud ERP</b></p>
   <ul>
     <li>Crocs is a popular footwear brands in the world, Selling</li>

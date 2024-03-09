@@ -3,7 +3,7 @@ logo: /assets/img/logo.webp
 email: supravat.com@gmail.com
 description: SDE @ Open. Adobe-Commerce(Magento 2)
 favicon: true
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+remote_theme: supravatm/jekyll-theme-minimalistic
 color-scheme: light
 
 google_analytics: UA-144666263-1

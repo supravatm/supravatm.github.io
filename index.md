@@ -95,7 +95,7 @@ December 2011 - February 2017</p>
     <li>n this project I have been working on SAP integration and all kinds of 3 rd party integration like Sendy for campaign email , AWS SES for transaction email , SMS API, Payment Gateway etc. Also I have communicated with clients as technical consultancy.</li>
     <li>Eureka Forbes sells products for household and institutional use. Its core products are consumer durable products which include water purifiers, security systems, air purifiers, vacuum cleaners and ancillary services.</li>
   </ul>
-  <a href="#"><span class="card-link-spanner"></span></a>
+  <a href="https://www.eurekaforbes.com/"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">

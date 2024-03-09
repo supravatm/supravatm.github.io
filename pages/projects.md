@@ -7,6 +7,56 @@ permalink: /projects
 ## Projects:
 
 <div class="card">
+  <h3>Planet Sports Asia</h3>
+  <p><b>Magento 2(Commerce), Cloud ERP</b></p>
+  <ul>
+    <li>Planet Sports Asia a part of @mapactive, the largest chain of sports shop in Indonesia to support healthy and happy lifestyle.</li>
+    <li>Integrate Magento with  ERP application, Module Customization & Development</li>
+  </ul>
+  <a href="https://www.planetsports.asia/"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
+  <h3>crocs.in/</h3>
+  <p><b>Magento 2(Commerce), Cloud ERP</b></p>
+  <ul>
+    <li>Crocs is a popular footwear brands in the world, Selling</li>
+    <li>Integrate Magento with ERP application, Module Customization & Development</li>
+  </ul>
+  <a href="https://www.crocs.in/"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
+  <h3>Converse</h3>
+  <p><b>Magento 2(Commerce), Cloud ERP</b></p>
+  <ul>
+    <li>converse is a popular footwear brands in the world</li>
+    <li>Integrate Magento with  ERP application, Module Customization & Development</li>
+  </ul>
+  <a href="https://www.converse.in/"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
+  <h3>Reebok</h3>
+  <p><b>Magento 2(Commerce), Cloud ERP</b></p>
+  <ul>
+    <li>Reebok is a popular footwear brands in the world</li>
+    <li>Integrate Magento with  ERP application, Module Customization & Development</li>
+  </ul>
+  <a href="https://www.Reebok.id/"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
+  <h3>Kidzstation</h3>
+  <p><b>Magento 2(Commerce), Cloud ERP</b></p>
+  <ul>
+    <li>Kidzstation is a popular footwear brands in the world</li>
+    <li>Integrate Magento with  ERP application, Module Customization & Development</li>
+  </ul>
+  <a href="https://www.Kidzstation.co.id.in/"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Best College Art</h3>
   <p><b>php, mysql, Ajax,jQuery with Magento 1.7.1.</b></p>
   <ul>

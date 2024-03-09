@@ -89,24 +89,23 @@ December 2011 - February 2017</p>
 ## Projects:
 
 <div class="card">
-  <h3>Housing Price Prediction</h3>
-  <p><b>Python and Machine Learning</b></p>
+  <h3>Eurekaforbes</h3>
+  <p><b>Magento 1.9</b></p>
   <ul>
-    <li>A machine learning project based on Kaggle Housing Price Prediction competition using XGBoost. Got a score of 14997.</li>
-    <li>The project has all the steps including Preprocessing which fixes missing data and categorical data, and Pipeline which streamlines the process in a single step from fitting and predicting the data.</li>
+    <li>n this project I have been working on SAP integration and all kinds of 3 rd party integration like Sendy for campaign email , AWS SES for transaction email , SMS API, Payment Gateway etc. Also I have communicated with clients as technical consultancy.</li>
+    <li>Eureka Forbes sells products for household and institutional use. Its core products are consumer durable products which include water purifiers, security systems, air purifiers, vacuum cleaners and ancillary services.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/housing-price-predictor/"><span class="card-link-spanner"></span></a>
+  <a href="#"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
-  <h3>Distributed Cloud (KLA+ Hackathon'20)</h3>
-  <p><b>Python and Flask</b></p>
+  <h3>Mufti Jeans</h3>
+  <p><b>Magento 1.9</b></p>
   <ul>
-    <li>A distributed cloud storage like google drive using Flask, where user can store and retrieve any files.</li>
-    <li>All files are chunked based on the json provided and stored in servers with load balancing.</li>
-    <li>End to End Encryption on chunks to provide extra security.</li>
+    <li>I have worked in this project as a Sr. Developer, gathering all client requirement from client side also decision making and lead junior developers.</li>
+    <li>Mufti Jeans is one of the most renowned Pan India brand of Men's Clothing with more than a thousand outlets and exclusive showrooms in all over India.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/distributed-cloud"><span class="card-link-spanner"></span></a>
+  <a href="#"><span class="card-link-spanner"></span></a>
 </div>
 
 [... See all projects](./projects)

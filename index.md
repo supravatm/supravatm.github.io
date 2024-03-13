@@ -113,7 +113,6 @@ December 2011 - February 2017</p>
   </ul>
   <a href="https://www.planetsports.asia/"><span class="card-link-spanner"></span></a>
 </div>
-
 <div class="card">
   <h3>crocs.in</h3>
   <p><b>Magento 2(Commerce), Cloud ERP</b></p>
@@ -123,7 +122,6 @@ December 2011 - February 2017</p>
   </ul>
   <a href="https://www.crocs.in/"><span class="card-link-spanner"></span></a>
 </div>
-
 <div class="card">
   <h3>Converse</h3>
   <p><b>Magento 2(Commerce), Cloud ERP</b></p>

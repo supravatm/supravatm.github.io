@@ -105,23 +105,33 @@ December 2011 - February 2017</p>
 ## Projects:
 
 <div class="card">
-  <h3>Eurekaforbes</h3>
-  <p><b>Magento 1.9</b></p>
+  <h3>Planet Sports Asia</h3>
+  <p><b>Magento 2(Commerce), Cloud ERP</b></p>
   <ul>
-    <li>n this project I have been working on SAP integration and all kinds of 3 rd party integration like Sendy for campaign email , AWS SES for transaction email , SMS API, Payment Gateway etc. Also I have communicated with clients as technical consultancy.</li>
-    <li>Eureka Forbes sells products for household and institutional use. Its core products are consumer durable products which include water purifiers, security systems, air purifiers, vacuum cleaners and ancillary services.</li>
+    <li>Planet Sports Asia a part of @mapactive, the largest chain of sports shop in Indonesia to support healthy and happy lifestyle.</li>
+    <li>Integrate Magento with  ERP application, Module Customization & Development</li>
   </ul>
-  <a href="https://www.eurekaforbes.com/"><span class="card-link-spanner"></span></a>
+  <a href="https://www.planetsports.asia/"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
-  <h3>Mufti Jeans</h3>
-  <p><b>Magento 1.9</b></p>
+  <h3>crocs.in</h3>
+  <p><b>Magento 2(Commerce), Cloud ERP</b></p>
   <ul>
-    <li>I have worked in this project as a Sr. Developer, gathering all client requirement from client side also decision making and lead junior developers.</li>
-    <li>Mufti Jeans is one of the most renowned Pan India brand of Men's Clothing with more than a thousand outlets and exclusive showrooms in all over India.</li>
+    <li>Crocs is a popular footwear brands in the world, Selling</li>
+    <li>Integrate Magento with ERP application, Module Customization & Development</li>
   </ul>
-  <a href="#"><span class="card-link-spanner"></span></a>
+  <a href="https://www.crocs.in/"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
+  <h3>Converse</h3>
+  <p><b>Magento 2(Commerce), Cloud ERP</b></p>
+  <ul>
+    <li>converse is a popular footwear brands in the world</li>
+    <li>Integrate Magento with  ERP application, Module Customization & Development</li>
+  </ul>
+  <a href="https://www.converse.in/"><span class="card-link-spanner"></span></a>
 </div>
 
 [... See all projects](./projects)

@@ -57,6 +57,26 @@ permalink: /projects
 </div>
 
 <div class="card">
+  <h3>Eurekaforbes</h3>
+  <p><b>Magento 1.9</b></p>
+  <ul>
+    <li>n this project I have been working on SAP integration and all kinds of 3 rd party integration like Sendy for campaign email , AWS SES for transaction email , SMS API, Payment Gateway etc. Also I have communicated with clients as technical consultancy.</li>
+    <li>Eureka Forbes sells products for household and institutional use. Its core products are consumer durable products which include water purifiers, security systems, air purifiers, vacuum cleaners and ancillary services.</li>
+  </ul>
+  <a href="https://www.eurekaforbes.com/"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
+  <h3>Mufti Jeans</h3>
+  <p><b>Magento 1.9</b></p>
+  <ul>
+    <li>I have worked in this project as a Sr. Developer, gathering all client requirement from client side also decision making and lead junior developers.</li>
+    <li>Mufti Jeans is one of the most renowned Pan India brand of Men's Clothing with more than a thousand outlets and exclusive showrooms in all over India.</li>
+  </ul>
+  <a href="#"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Best College Art</h3>
   <p><b>php, mysql, Ajax,jQuery with Magento 1.7.1.</b></p>
   <ul>

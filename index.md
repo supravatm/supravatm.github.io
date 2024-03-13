@@ -64,14 +64,20 @@ Session 2008 - 2011
 <p style="margin:0;"><b>Senior Software Engineer</b><br>
 March 2023 - Present</p>
 <ul style="margin-left: -1.4em;">
-  <li>Currently developing a online eCommerce for the largest chain of sports shop in Indonesia to support healthy and happy lifestyle.</li>
+  <li>Worked on checkout and payment complex payment gateway custom module creation and step changes magneto platform.</li>
+  <li>Resolved problems, improved operations and provided exceptional service.</li>
+  <li>Developed and Implemented Magento extensions.</li>
+  <li>Developed Web Services for Mobile Applications.</li>
 </ul>
 
 <h3 style="margin-bottom:2px;">Born Commerce Pvt. Ltd.</h3>
 <p style="margin:0;"><b>Senior Software Engineer</b><br>
 May 2019 - Feb 2023</p>
 <ul style="margin-left: -1.4em;">
-  <li>Worked on checkout and payment very complex payment gateway custom module creation and step changes magneto platform.</li>
+  <li>Worked on checkout and payment complex payment gateway custom module creation and step changes magneto platform.</li>
+  <li>Resolved problems, improved operations and provided exceptional service.</li>
+  <li>Developed and Implemented Magento extensions.</li>
+  <li>Developed Web Services for Mobile Applications.</li>
 </ul>
 
 <h3 style="margin-bottom:2px;">Kensium Solutions Pvt. Ltd.</h3>

@@ -62,7 +62,14 @@ Session 2008 - 2011
 
 <h3 style="margin-bottom:2px;">Tech Mahindra Limited</h3>
 <p style="margin:0;"><b>Senior Software Engineer</b><br>
-May 2019 - Present</p>
+March 2023 - Present</p>
+<ul style="margin-left: -1.4em;">
+  <li>Currently developing a online eCommerce for the largest chain of sports shop in Indonesia to support healthy and happy lifestyle.</li>
+</ul>
+
+<h3 style="margin-bottom:2px;">Tech Mahindra Limited</h3>
+<p style="margin:0;"><b>Senior Software Engineer</b><br>
+May 2019 - Feb 2023</p>
 <ul style="margin-left: -1.4em;">
   <li>Currently developing a online eCommerce for the largest chain of sports shop in Indonesia to support healthy and happy lifestyle.</li>
 </ul>
@@ -71,7 +78,7 @@ May 2019 - Present</p>
 <p style="margin:0;"><b>Magento 2 Developer</b><br>
 March 2017 - May 2019</p>
 <ul style="margin-left: -1.4em;">
-  <li>Involved in  Cloud ERP Extension development, optimization & customization.</li>
+  <li>Involved in Cloud ERP Extension development, optimization & customization using Magento 2.</li>
   <li>Worked on various Web Based Applications Development</li>
 </ul>
 
@@ -79,9 +86,11 @@ March 2017 - May 2019</p>
 <p style="margin:0;"><b>System Analyst</b><br>
 December 2011 - February 2017</p>
 <ul style="margin-left: -1.4em;">
-  <li>Worked on various web based E-commerce application</li>
-  <li>Worked on various Web Based Applications Development</li>
-  <li>Involved in application monitoring, error logging, and server deployment.</li>
+  <li>Assisted in the development and maintenance of web applications, gaining valuable experience in web development.</li>
+  <li>Assisted in the development of PHP and MySQL web applications, gaining valuable experience in web development.</li>
+  <li>Collaborated with the team to identify and resolve software issues, gaining valuable experience in debugging techniques.</li>
+  <li>Learned and applied new technologies and techniques, including Git version control and REST API development.</li>   
+  <li>Learn and develop e-commerce applications using Magento 1</li>
 </ul>
 
 ---

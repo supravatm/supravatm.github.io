@@ -14,8 +14,8 @@ I'm currently working as a **Senior Software Engineer**  at [Tech Mahindra](http
 ## Education:
 
 <h3 style="margin-bottom:2px;">Bachelor of Computer Applications (BCA)</h3>
-<h4 style="margin:0;">Midnapore College | Vidyasagar University </h4> | 2008 - 2011
-
+<h4 style="margin:0;">Vidyasagar University </h4>
+2008 - 2011
 
 ---
 

@@ -67,19 +67,20 @@ March 2023 - Present</p>
   <li>Currently developing a online eCommerce for the largest chain of sports shop in Indonesia to support healthy and happy lifestyle.</li>
 </ul>
 
-<h3 style="margin-bottom:2px;">Tech Mahindra Limited</h3>
+<h3 style="margin-bottom:2px;">Born Commerce Pvt. Ltd.</h3>
 <p style="margin:0;"><b>Senior Software Engineer</b><br>
 May 2019 - Feb 2023</p>
 <ul style="margin-left: -1.4em;">
-  <li>Currently developing a online eCommerce for the largest chain of sports shop in Indonesia to support healthy and happy lifestyle.</li>
+  <li>Worked on checkout and payment very complex payment gateway custom module creation and step changes magneto platform.</li>
 </ul>
 
 <h3 style="margin-bottom:2px;">Kensium Solutions Pvt. Ltd.</h3>
 <p style="margin:0;"><b>Magento 2 Developer</b><br>
 March 2017 - May 2019</p>
 <ul style="margin-left: -1.4em;">
-  <li>Involved in Cloud ERP Extension development, optimization & customization using Magento 2.</li>
-  <li>Worked on various Web Based Applications Development</li>
+  <li>Collaborated with the team, develop new features, Optimized and performance of Cloud ERP Extension using Magento 2.</li>
+  <li>Worked on various Applications customization, theme implementaion and develop new features using Magento 2</li>
+  <li>Assisted in the development of REST APIs, SOAP APIs, resulting in improved functionality and increased user satisfaction.</li>
 </ul>
 
 <h3 style="margin-bottom:2px;">BlueHorse Software Solutions Pvt. Ltd.</h3>

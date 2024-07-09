@@ -11,7 +11,7 @@ permalink: /blogs
 <ul id="posts">
   <li style="display:flex">
     <date><time>Jan 09</time></date>
-    <a href="https://supravatm.github.io/example-post.html">Technology Explained in Fewer than 140 Characters</a>
+    <a href="https://supravatm.github.io/blog/example-post.html">Technology Explained in Fewer than 140 Characters</a>
   </li>
   <li style="display:flex">
     <date><time>Feb 21</time></date>

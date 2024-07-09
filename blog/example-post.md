@@ -2,11 +2,7 @@
 layout: default
 ---
 
-**[Home](https://vaibhavvikas.github.io/) >> [Projects](https://vaibhavvikas.github.io/projects.html) >> [Minimalistic](https://vaibhavvikas.github.io/jekyll-theme-minimalistic/) >> A Sample Page**
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to home page](./).
+**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> A Sample Blog Page**
 
 There should be whitespace between paragraphs.
 
@@ -100,7 +96,7 @@ end
 
 ### Large image
 
-![Branching](https://github.com/vaibhavvikas/vaibhavvikas/raw/main/src/header_.png)
+![Branching](https://github.com/supravatm/supravatm/raw/main/src/header_.png)
 
 
 ### Definition lists can be used with HTML syntax.

@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /blogs
 ---
 
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> A Sample Blog Page**

@@ -61,7 +61,10 @@
   }
 }
 
-
+ul#posts li {
+  margin: 5px 0;
+  padding: 0;
+}
 
 ul#posts date {
     font-size: .8em;
@@ -73,17 +76,18 @@ ul#posts date {
     overflow: hidden;
     white-space: nowrap
 }
+
 ul#posts  {
   list-style-type: none;
-    font-size: 16px;
-    font-size: 1.6rem;
-    margin-top: 0;
-    padding: 0;
+  margin-top: 0;
+  padding: 0;
 }
 
 ul#posts h4 {
   margin-bottom: 0;
   line-height: 1.15;
-  font-size: 16px;
+  font-size: 1.6rem;
+}
+ul#posts li a {
   font-size: 1.6rem;
 }

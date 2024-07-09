@@ -9,7 +9,7 @@ permalink: /what-is-the-difference-between-type-and-virtualType
 <p class='blog-text-font-property'>Virtual types are a way to inject different dependencies into existing classes without affecting other classes.
 </p>
 <p class='blog-text-font-property'>
-For example, the **Magento\Framework\Session\Storage** class takes a **$namespace** argument in its constructor, which defaults to the value 'default', and you could use the **type** definition to change the namespace to 'core'.
+For example, the <mark class="highlight-source-css">Magento\Framework\Session\Storage</mark> class takes a **$namespace** argument in its constructor, which defaults to the value 'default', and you could use the **type** definition to change the namespace to 'core'.
 </p>
 
 <type name="Magento\Framework\Session\Storage">

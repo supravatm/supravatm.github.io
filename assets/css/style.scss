@@ -96,9 +96,13 @@ ul#posts li a {
   font-size: 0.9em;
 }
 
-.language-php .highlighter-rouge {
+pre.highlight code {
   font-size: 0.6em;
 }
 .blog-text-font-property {
-  font-size: 0.7em;
+  font-size: 0.9em;
+}
+.highlight-source-css {
+  background-color: var(--bgColor-muted, var(--color-canvas-subtle));
+  border-radius: 6px;
 }

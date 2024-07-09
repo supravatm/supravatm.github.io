@@ -6,7 +6,8 @@ permalink: /blogs
 
 ## Posts:
 
-<main id="content"><p>Here you can explore everything I wrote 📝 on this website. It allows you to follow my journey through time. Get updates by subscribing to <a href="/blog/index.xml">RSS</a>.</p><h4>2023</h4><ul id="posts"><li style="display:flex"><date><time>Apr 19</time></date>
+<p>Here you can explore everything I wrote 📝 on this website. It allows you to follow my journey through time. Get updates by subscribing to <a href="/blog/index.xml">RSS</a>.</p>
+<h4>2023</h4><ul id="posts"><li style="display:flex"><date><time>Apr 19</time></date>
 <a href="https://www.bodunhu.com/blog/posts/shepherd-serving-dnns-in-the-wild/">SHEPHERD: Serving DNNs in the Wild</a></li></ul><h4>2022</h4><ul id="posts"><li style="display:flex"><date><time>Aug 30</time></date>
 <a href="https://www.bodunhu.com/blog/posts/tensorir-transformation/">TensorIR Transformation</a></li><li style="display:flex"><date><time>Aug 28</time></date>
 <a href="https://www.bodunhu.com/blog/posts/dive-into-tensorir/">Dive into TensorIR</a></li><li style="display:flex"><date><time>Mar 31</time></date>
@@ -69,4 +70,5 @@ permalink: /blogs
 <a href="https://www.bodunhu.com/blog/posts/file-system-design/">File System Design</a></li><li style="display:flex"><date><time>Oct 25</time></date>
 <a href="https://www.bodunhu.com/blog/posts/disk-introduction/">Disk Introduction</a></li><li style="display:flex"><date><time>Oct 19</time></date>
 <a href="https://www.bodunhu.com/blog/posts/virtual-memory-mechanisms/">Virtual Memory Mechanisms</a></li><li style="display:flex"><date><time>Oct 8</time></date>
-<a href="https://www.bodunhu.com/blog/posts/virtual-memory-overview/">Virtual Memory Overview</a></li></ul></main>
+<a href="https://www.bodunhu.com/blog/posts/virtual-memory-overview/">Virtual Memory Overview</a></li></ul>
+

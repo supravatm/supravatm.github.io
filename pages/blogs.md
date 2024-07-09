@@ -2,9 +2,9 @@
 layout: default
 permalink: /blogs
 ---
-**[Home](/) >> Posts**
+**[Home](/) >> Blog**
 
-## Posts:
+##### Latest articles:
 
 <p>Here you can explore everything I wrote 📝 on this website. It allows you to follow my journey through time. Get updates by subscribing to <a href="/blog/index.xml">RSS</a>.</p>
 <h4>2024</h4>

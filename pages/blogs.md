@@ -2,118 +2,71 @@
 layout: default
 permalink: /blogs
 ---
-**[Home](/) >> Blogs**
+**[Home](/) >> Posts**
 
-## Blogs:
+## Posts:
 
-<div class="card">
-  <h3>Planet Sports Asia</h3>
-  <p><b>Magento 2(Commerce), Cloud ERP</b></p>
-  <ul>
-    <li>Planet Sports Asia a part of @mapactive, the largest chain of sports shop in Indonesia to support healthy and happy lifestyle.</li>
-    <li>Integrate Magento with  ERP application, Module Customization & Development</li>
-  </ul>
-  <a href="https://www.planetsports.asia/" target="_blank"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
-  <h3>crocs.in</h3>
-  <p><b>Magento 2(Commerce), Cloud ERP</b></p>
-  <ul>
-    <li>Crocs is a popular footwear brands in the world, Selling</li>
-    <li>Integrate Magento with ERP application, Module Customization & Development</li>
-  </ul>
-  <a href="https://www.crocs.in/" target="_blank"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
-  <h3>Converse</h3>
-  <p><b>Magento 2(Commerce), Cloud ERP</b></p>
-  <ul>
-    <li>converse is a popular footwear brands in the world</li>
-    <li>Integrate Magento with  ERP application, Module Customization & Development</li>
-  </ul>
-  <a href="https://www.converse.in/" target="_blank"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
-  <h3>Reebok</h3>
-  <p><b>Magento 2(Commerce), Cloud ERP</b></p>
-  <ul>
-    <li>Reebok is a popular footwear brands in the world</li>
-    <li>Integrate Magento with  ERP application, Module Customization & Development</li>
-  </ul>
-  <a href="https://www.Reebok.id/" target="_blank"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
-  <h3>Kidzstation</h3>
-  <p><b>Magento 2(Commerce), Cloud ERP</b></p>
-  <ul>
-    <li>Kidzstation is a popular footwear brands in the world</li>
-    <li>Integrate Magento with  ERP application, Module Customization & Development</li>
-  </ul>
-  <a href="https://www.Kidzstation.co.id.in/" target="_blank"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
-  <h3>Eurekaforbes</h3>
-  <p><b>Magento 1.9</b></p>
-  <ul>
-    <li>n this project I have been working on SAP integration and all kinds of 3 rd party integration like Sendy for campaign email , AWS SES for transaction email , SMS API, Payment Gateway etc. Also I have communicated with clients as technical consultancy.</li>
-    <li>Eureka Forbes sells products for household and institutional use. Its core products are consumer durable products which include water purifiers, security systems, air purifiers, vacuum cleaners and ancillary services.</li>
-  </ul>
-  <a href="https://www.eurekaforbes.com/" target="_blank"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
-  <h3>Mufti Jeans</h3>
-  <p><b>Magento 1.9</b></p>
-  <ul>
-    <li>I have worked in this project as a Sr. Developer, gathering all client requirement from client side also decision making and lead junior developers.</li>
-    <li>Mufti Jeans is one of the most renowned Pan India brand of Men's Clothing with more than a thousand outlets and exclusive showrooms in all over India.</li>
-  </ul>
-  <a href="https://www.muftijeans.in/"><span class="card-link-spanner" target="_blank"></span></a>
-</div>
-
-<div class="card">
-  <h3>Best College Art</h3>
-  <p><b>php, mysql, Ajax,jQuery with Magento 1.7.1.</b></p>
-  <ul>
-    <li>I have mainly worked on this project product upload module from front end.</li>
-    <li>Best college Art  is an art initiative which gets authentic art from the artist studio, directly to the collector. It is a platform for young aspiring artists to reach out to collectors to buy Indian Contemporary Art at fair value with the help of technology.
-    </li>
-  </ul>
-  <a href="#" target="_blank"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
-  <h3>Tilray </h3>
-  <p><b>Magento 2(Commerce), Acumatica Cloud ERP</b></p>
-  <ul>
-    <li>Tilray is the global leader in the advancement of cannabinoid-based medicine, with a keen focus on providing research-backed medical cannabis products to physicians, pharmacies, and patients, around the world. Tilray is dedicated to progressing the science, safety, and efficacy of medical cannabis.</li>
-    <li>Integrate Magento with  ERP application. Module Customization & Development.</li>
-    <li>End to End Encryption on chunks to provide extra security.</li>
-  </ul>
-  <a href="https://www.tilraymedical.ca/" target="_blank"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
-  <h3>xByte Technologies</h3>
-  <p><b>Magento 2(Commerce), Acumatica Cloud ERP</b></p>
-  <ul>
-    <li>xByte Technology is a premier reseller of IT equipment company. They specialize in servers, storage, networking and components for Dell, Cisco, Juniper, and HPE.</li>
-    <li>Integrate Magento with  ERP application, Module Customization & Development</li>
-  </ul>
-  <a href="https://www.xbyte.com/" target="_blank"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
-  <h3>ROAM1.COM</h3>
-  <p><b>Laravel, PHP, Ajax, jQuery</b></p>
-  <ul>
-    <li>Roam1 is a company that selling online international SIM cards for travelers.</li>
-    <li>Integrate Laravel with  ERP application. Module Customization & Development.</li>
-  </ul>
-  <a href="https://www.roam1.com/" target="_blank"><span class="card-link-spanner"></span></a>
-</div>
+<main id="content"><p>Here you can explore everything I wrote 📝 on this website. It allows you to follow my journey through time. Get updates by subscribing to <a href="/blog/index.xml">RSS</a>.</p><h4>2023</h4><ul id="posts"><li style="display:flex"><date><time>Apr 19</time></date>
+<a href="https://www.bodunhu.com/blog/posts/shepherd-serving-dnns-in-the-wild/">SHEPHERD: Serving DNNs in the Wild</a></li></ul><h4>2022</h4><ul id="posts"><li style="display:flex"><date><time>Aug 30</time></date>
+<a href="https://www.bodunhu.com/blog/posts/tensorir-transformation/">TensorIR Transformation</a></li><li style="display:flex"><date><time>Aug 28</time></date>
+<a href="https://www.bodunhu.com/blog/posts/dive-into-tensorir/">Dive into TensorIR</a></li><li style="display:flex"><date><time>Mar 31</time></date>
+<a href="https://www.bodunhu.com/blog/posts/pathways-googles-new-ml-system/">Pathways: Google's New ML System</a></li><li style="display:flex"><date><time>Feb 22</time></date>
+<a href="https://www.bodunhu.com/blog/posts/flexflow/">FlexFlow</a></li><li style="display:flex"><date><time>Feb 15</time></date>
+<a href="https://www.bodunhu.com/blog/posts/add-mermaid-to-hugo-with-dark-mode/">Add Mermaid to Hugo with Dark Mode</a></li><li style="display:flex"><date><time>Feb 13</time></date>
+<a href="https://www.bodunhu.com/blog/posts/cross-entropy-loss/">Cross Entropy Loss</a></li><li style="display:flex"><date><time>Jan 24</time></date>
+<a href="https://www.bodunhu.com/blog/posts/maximum-likelihood-for-classification/">Maximum Likelihood for Classification</a></li><li style="display:flex"><date><time>Jan 8</time></date>
+<a href="https://www.bodunhu.com/blog/posts/machine-learning-system-resources/">Machine Learning System Resources</a></li></ul><h4>2021</h4><ul id="posts"><li style="display:flex"><date><time>Dec 1</time></date>
+<a href="https://www.bodunhu.com/blog/posts/megatron-with-fastmoe/">Megatron with FastMoE</a></li><li style="display:flex"><date><time>Nov 16</time></date>
+<a href="https://www.bodunhu.com/blog/posts/set-up-slurm-across-multiple-machines/">Set up Slurm across Multiple Machines</a></li><li style="display:flex"><date><time>Nov 9</time></date>
+<a href="https://www.bodunhu.com/blog/posts/paper-review-dynamic-tensor-rematerialization/">Paper Review - Dynamic Tensor Rematerialization</a></li><li style="display:flex"><date><time>Nov 7</time></date>
+<a href="https://www.bodunhu.com/blog/posts/paper-review-capuchin-tensor-based-gpu-memory-management-for-deep-learning/">Paper Review - Capuchin: Tensor-based GPU Memory Management for Deep Learning</a></li><li style="display:flex"><date><time>Nov 5</time></date>
+<a href="https://www.bodunhu.com/blog/posts/starting-out-phd/">Starting Out PhD</a></li><li style="display:flex"><date><time>Oct 19</time></date>
+<a href="https://www.bodunhu.com/blog/posts/handle-github-password-authentication-deprecation/">Handle GitHub Password Authentication Deprecation</a></li><li style="display:flex"><date><time>Oct 18</time></date>
+<a href="https://www.bodunhu.com/blog/posts/consensus-problem-in-distributed-systems/">Consensus Problem in Distributed Systems</a></li><li style="display:flex"><date><time>Oct 5</time></date>
+<a href="https://www.bodunhu.com/blog/posts/fault-tolerance-in-distributed-systems/">Fault Tolerance in Distributed Systems</a></li><li style="display:flex"><date><time>Sep 23</time></date>
+<a href="https://www.bodunhu.com/blog/posts/consistency-models-explained/">Consistency Models Explained</a></li><li style="display:flex"><date><time>Sep 21</time></date>
+<a href="https://www.bodunhu.com/blog/posts/lamport-distributed-mutual-exclusion/">Lamport Distributed Mutual Exclusion</a></li><li style="display:flex"><date><time>Sep 11</time></date>
+<a href="https://www.bodunhu.com/blog/posts/specifying-token-ring-for-mutual-exclusion/">Specifying Token Ring for Mutual Exclusion</a></li><li style="display:flex"><date><time>Sep 8</time></date>
+<a href="https://www.bodunhu.com/blog/posts/writing-specifications-for-a-distributed-system-using-ivy/">Writing Specifications for a Distributed System using Ivy</a></li><li style="display:flex"><date><time>Sep 5</time></date>
+<a href="https://www.bodunhu.com/blog/posts/whiz-data-driven-analytics-execution/">Whiz: Data-Driven Analytics Execution</a></li><li style="display:flex"><date><time>Aug 31</time></date>
+<a href="https://www.bodunhu.com/blog/posts/in-network-aggregation-for-shared-machine-learning-clusters/">In-Network Aggregation for Shared Machine Learning Clusters</a></li><li style="display:flex"><date><time>Aug 29</time></date>
+<a href="https://www.bodunhu.com/blog/posts/what-is-memcached/">What is Memcached</a></li><li style="display:flex"><date><time>Aug 27</time></date>
+<a href="https://www.bodunhu.com/blog/posts/deploy-hugo-site-to-github-pages/">Deploy Hugo Site to GitHub Pages</a></li><li style="display:flex"><date><time>Aug 20</time></date>
+<a href="https://www.bodunhu.com/blog/posts/quantum-search-algorithm/">Quantum Search Algorithm</a></li><li style="display:flex"><date><time>Aug 19</time></date>
+<a href="https://www.bodunhu.com/blog/posts/quantum-state-in-a-nutshell/">Quantum State in a Nutshell</a></li><li style="display:flex"><date><time>Aug 9</time></date>
+<a href="https://www.bodunhu.com/blog/posts/writing-in-the-sciences-writing-process/">Writing in the Sciences - Writing Process</a></li><li style="display:flex"><date><time>Aug 8</time></date>
+<a href="https://www.bodunhu.com/blog/posts/writing-in-the-sciences-structure/">Writing in the Sciences - Structure</a></li><li style="display:flex"><date><time>Jul 31</time></date>
+<a href="https://www.bodunhu.com/blog/posts/writing-in-the-sciences-verbs/">Writing in the Sciences - Verbs</a></li><li style="display:flex"><date><time>Jul 30</time></date>
+<a href="https://www.bodunhu.com/blog/posts/writing-in-the-sciences-cut-the-clutter/">Writing in the Sciences - Cut the Clutter</a></li><li style="display:flex"><date><time>Jul 14</time></date>
+<a href="https://www.bodunhu.com/blog/posts/unitary-matrix/">Unitary Matrix</a></li><li style="display:flex"><date><time>Jul 6</time></date>
+<a href="https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/">BGP in a Nutshell</a></li><li style="display:flex"><date><time>Jun 21</time></date>
+<a href="https://www.bodunhu.com/blog/posts/from-autotools-to-cmake/">From Autotools to CMake</a></li><li style="display:flex"><date><time>May 21</time></date>
+<a href="https://www.bodunhu.com/blog/posts/how-sat-solver-works/">How SAT Solver works</a></li><li style="display:flex"><date><time>May 16</time></date>
+<a href="https://www.bodunhu.com/blog/posts/experience-on-dafny-programming/">Experience on Dafny Programming</a></li><li style="display:flex"><date><time>May 14</time></date>
+<a href="https://www.bodunhu.com/blog/posts/ethereum/">Ethereum</a></li><li style="display:flex"><date><time>May 10</time></date>
+<a href="https://www.bodunhu.com/blog/posts/reflections-on-my-cs-phd-application-process/">Reflections on my CS PhD Application Process</a></li><li style="display:flex"><date><time>Apr 19</time></date>
+<a href="https://www.bodunhu.com/blog/posts/blockchain/">Blockchain</a></li><li style="display:flex"><date><time>Apr 17</time></date>
+<a href="https://www.bodunhu.com/blog/posts/hoare-logic/">Hoare Logic</a></li><li style="display:flex"><date><time>Mar 27</time></date>
+<a href="https://www.bodunhu.com/blog/posts/congruence-closure/">Congruence Closure</a></li></ul><h4>2020</h4><ul id="posts"><li style="display:flex"><date><time>Nov 3</time></date>
+<a href="https://www.bodunhu.com/blog/posts/program-loading-and-memory-mapping-in-linux/">Program Loading and Memory Mapping in Linux</a></li><li style="display:flex"><date><time>Oct 24</time></date>
+<a href="https://www.bodunhu.com/blog/posts/scheduler-activation/">Scheduler Activation</a></li><li style="display:flex"><date><time>Oct 22</time></date>
+<a href="https://www.bodunhu.com/blog/posts/add-mathjax-support-to-jekyll-and-hugo/">Add MathJax Support to Jekyll and Hugo</a></li><li style="display:flex"><date><time>Sep 23</time></date>
+<a href="https://www.bodunhu.com/blog/posts/linux-program-measurement-and-mmap/">Linux Program Measurement and mmap</a></li><li style="display:flex"><date><time>Sep 21</time></date>
+<a href="https://www.bodunhu.com/blog/posts/memory-resource-management-in-vmware-esx-server/">Memory Resource Management in VMware ESX Server</a></li><li style="display:flex"><date><time>Sep 16</time></date>
+<a href="https://www.bodunhu.com/blog/posts/xen-and-the-art-of-virtualization/">Xen and the Art of Virtualization</a></li><li style="display:flex"><date><time>Sep 14</time></date>
+<a href="https://www.bodunhu.com/blog/posts/start-linux-kernel-hacking/">Start Linux Kernel Hacking</a></li><li style="display:flex"><date><time>Sep 13</time></date>
+<a href="https://www.bodunhu.com/blog/posts/performance-anomaly-of-802.11b/">Performance Anomaly of 802.11b</a></li><li style="display:flex"><date><time>Sep 1</time></date>
+<a href="https://www.bodunhu.com/blog/posts/exokernel/">Exokernel</a></li><li style="display:flex"><date><time>Aug 27</time></date>
+<a href="https://www.bodunhu.com/blog/posts/sketch-on-the-unix-timesharing-system/">Sketch on the UNIX Timesharing System</a></li><li style="display:flex"><date><time>Mar 1</time></date>
+<a href="https://www.bodunhu.com/blog/posts/monads-in-haskell/">Monads in Haskell</a></li><li style="display:flex"><date><time>Feb 10</time></date>
+<a href="https://www.bodunhu.com/blog/posts/singular-value-decomposition/">Singular Value Decomposition</a></li></ul><h4>2019</h4><ul id="posts"><li style="display:flex"><date><time>Sep 17</time></date>
+<a href="https://www.bodunhu.com/blog/posts/understanding-probabilistic-clock-synchronization/">Understanding Probabilistic Clock Synchronization</a></li><li style="display:flex"><date><time>Jun 25</time></date>
+<a href="https://www.bodunhu.com/blog/posts/how-to-put-papers-on-arxiv/">How to Put Papers on ArXiv</a></li><li style="display:flex"><date><time>Feb 18</time></date>
+<a href="https://www.bodunhu.com/blog/posts/a-little-review-on-barrelfish-memory-managements/">A Little Review on Barrelfish Memory Managements</a></li><li style="display:flex"><date><time>Jan 15</time></date>
+<a href="https://www.bodunhu.com/blog/posts/pascal-gpu-memory-and-cache-hierarchy/">Pascal GPU memory and cache hierarchy</a></li></ul><h4>2018</h4><ul id="posts"><li style="display:flex"><date><time>Apr 1</time></date>
+<a href="https://www.bodunhu.com/blog/posts/map-reduce/">Map Reduce</a></li></ul><h4>2017</h4><ul id="posts"><li style="display:flex"><date><time>Nov 13</time></date>
+<a href="https://www.bodunhu.com/blog/posts/networks/">Networks</a></li><li style="display:flex"><date><time>Oct 30</time></date>
+<a href="https://www.bodunhu.com/blog/posts/file-system-design/">File System Design</a></li><li style="display:flex"><date><time>Oct 25</time></date>
+<a href="https://www.bodunhu.com/blog/posts/disk-introduction/">Disk Introduction</a></li><li style="display:flex"><date><time>Oct 19</time></date>
+<a href="https://www.bodunhu.com/blog/posts/virtual-memory-mechanisms/">Virtual Memory Mechanisms</a></li><li style="display:flex"><date><time>Oct 8</time></date>
+<a href="https://www.bodunhu.com/blog/posts/virtual-memory-overview/">Virtual Memory Overview</a></li></ul></main>

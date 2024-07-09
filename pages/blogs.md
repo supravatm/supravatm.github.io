@@ -99,7 +99,7 @@ permalink: /blogs
   </li>
   <li style="display:flex">
     <date><time>Aug 19</time></date>
-    <a href="https://supravatm.github.io/Abstract-and-interface.html">Abstract Class and interface</a>
+    <a href="https://supravatm.github.io/abstract-and-interface.html">Abstract Class and interface</a>
   </li>
   <li style="display:flex">
     <date><time>Jul 08</time></date>
@@ -111,11 +111,11 @@ permalink: /blogs
   </li>
   <li style="display:flex">
     <date><time>May 05</time></date>
-    <a href="https://supravatm.github.io/setup-magento-2-on-nginx-web-server-ubuntu-18.04.html">Setup magento 2 on nginx web server ubuntu-18.04</a>
+    <a href="https://supravatm.github.io/setup-magento-2-on-nginx-web-server-ubuntu.html">Setup magento 2 on nginx web server ubuntu-18.04</a>
   </li>
   <li style="display:flex">
     <date><time>Mar 27</time></date>
-    <a href="https://supravatm.github.io/Useful Ubuntu Commands.html">Useful Ubuntu Commands</a>
+    <a href="https://supravatm.github.io/useful-ubuntu-commands.html">Useful Ubuntu Commands</a>
   </li>
   <li style="display:flex">
     <date><time>Jan 12</time></date>

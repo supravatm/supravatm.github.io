@@ -36,10 +36,23 @@ In the codebase we see the following two configurations:
 
 The first snippet creates a virtual type for **Magento\Core\Model\Session\Storage** which alters the namespace, and the second inject the virtual type into **Magento\Framework\Session\Generic**.  This allows **Magento\Framework\Session\Generic** to be customized without affecting other classes that also declare a dependency on **Magento\Framework\Session\Storage**
 
-<div class="highlight highlight-text-html-php" dir="auto"><pre><span class="pl-ent">&lt;?php</span>
-<span class="pl-k">class</span> <span class="pl-v">GO_Example_Controller_ThingController</span> <span class="pl-k">extends</span> 
-      <span class="pl-v">GO_Base_Controller_AbstractModelController</span> {
-    
-    <span class="pl-k">protected</span> <span class="pl-c1"><span class="pl-c1">$</span>model</span> = "<span class="pl-s">GO_Example_Model_Thing</span>";
-    
-}</pre></div>
+```lua
+use App\Markdown\Extensions\WarningExtension;
+use League\CommonMark\Environment\Environment;
+use League\CommonMark\Extension\CommonMark\CommonMarkCoreExtension;
+use League\CommonMark\Extension\HeadingPermalink\HeadingPermalinkExtension;
+use League\CommonMark\Extension\TableOfContents\TableOfContentsExtension;
+use League\CommonMark\MarkdownConverter;
+
+$environment = new Environment();
+
+// Register the core CommonMark parsers and renderers...
+$environment->addExtension(new CommonMarkCoreExtension());
+
+// Register our new WarningExtension
+$environment->addExtension(new WarningExtension());
+
+$output = (new MarkdownConverter($environment))
+    ->convert(file_get_contents(__DIR__.'/markdown/article.md'))
+    ->getContent();
+```

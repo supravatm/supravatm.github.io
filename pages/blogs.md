@@ -78,3 +78,47 @@ permalink: /blogs
     <a href="https://supravatm.github.io/example-post.html">5 Things Everyone Gets Wrong About Backend Developer</a>
   </li>
 </ul>
+
+<h4>2020</h4>
+<ul id="posts">
+  <li style="display:flex">
+    <date><time>Dec 30</time></date>
+    <a href="https://supravatm.github.io/how-to-call-owl-slider-in-magento2.html">How to call Owl Slider in Magento2</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Dec 14</time></date>
+    <a href="https://supravatm.github.io/dependency-injection-magento-2.html">Dependency Injection Magento2</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Nov 28</time></date>
+    <a href="https://supravatm.github.io/example-post.html">How to Create A Sandbox Script-in-magento2</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Oct 26</time></date>
+    <a href="https://supravatm.github.io/magento2-overriding-the -customer-login-form-template.html">How to overriding the Customer Login Form Template in Magento 2</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Aug 19</time></date>
+    <a href="https://supravatm.github.io/Abstract-and-interface.html">Abstract Class and interface</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Jul 08</time></date>
+    <a href="https://supravatm.github.io/how-to-build-RabbitMQ-in-magento-ee-2-3.html">How to use RabbitMQ in Magento EE 2.3</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Jun 15</time></date>
+    <a href="https://supravatm.github.io/what-is-the-difference-between-type-and-virtualType.html">What is the difference between type and virtualType</a>
+  </li>
+  <li style="display:flex">
+    <date><time>May 05</time></date>
+    <a href="https://supravatm.github.io/setup-magento-2-on-nginx-web-server-ubuntu-18.04.html">Setup magento 2 on nginx web server ubuntu-18.04</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Mar 27</time></date>
+    <a href="https://supravatm.github.io/Useful Ubuntu Commands.html">Useful Ubuntu Commands</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Jan 12</time></date>
+    <a href="https://supravatm.github.io/varnish-commands.html">varnish-commands</a>
+  </li>
+</ul>

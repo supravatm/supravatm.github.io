@@ -53,7 +53,7 @@ permalink: /projects
     <li>Kidzstation is a popular footwear brands in the world</li>
     <li>Integrate Magento with  ERP application, Module Customization & Development</li>
   </ul>
-  <a href="https://www.Kidzstation.co.id.in/" target="_blank"><span class="card-link-spanner"></span></a>
+  <a href="https://www.Kidzstation.co.id/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -73,7 +73,7 @@ permalink: /projects
     <li>I have worked in this project as a Sr. Developer, gathering all client requirement from client side also decision making and lead junior developers.</li>
     <li>Mufti Jeans is one of the most renowned Pan India brand of Men's Clothing with more than a thousand outlets and exclusive showrooms in all over India.</li>
   </ul>
-  <a href="#" target="_blank"><span class="card-link-spanner"></span></a>
+  <a href="https://www.muftijeans.in" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -84,7 +84,7 @@ permalink: /projects
     <li>Best college Art  is an art initiative which gets authentic art from the artist studio, directly to the collector. It is a platform for young aspiring artists to reach out to collectors to buy Indian Contemporary Art at fair value with the help of technology.
     </li>
   </ul>
-  <a href="#" target="_blank"><span class="card-link-spanner"></span></a>
+  <a href="https://bestcollegeart.com" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">

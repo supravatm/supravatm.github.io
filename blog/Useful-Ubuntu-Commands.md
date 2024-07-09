@@ -1,11 +1,6 @@
 ---
 layout: default
-title:  "Useful Ubuntu Commands"
-date:   2019-08-01 60:03:25 -0800
-tags: [ubuntu, CLI, commands, Ubuntu, linux]
-categories: [linux]
-image: ubuntu.jpg
----
+permalink: /Useful-Ubuntu-Commands
 
 ***Create symbolic link***
 

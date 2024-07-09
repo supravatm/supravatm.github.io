@@ -1,10 +1,6 @@
 ---
 layout: default
-title:  "Setup magento 2 on nginx web server ubuntu-18.04"
-date:   2019-02-01 60:03:25 -0800
-tags: [github, Magento 2, supravatm, blog, cms, opensource, wordpress, blogger]
-categories: [linux]
-image: nginx.png
+permalink: /setup-magento-2-on-nginx-web-server-ubuntu-18.04
 ---
 
 Hi Everyone,

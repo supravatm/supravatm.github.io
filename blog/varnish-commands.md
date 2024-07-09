@@ -1,10 +1,6 @@
 ---
 layout: default
-title:  "Varnish CLI commands for ubuntu"
-date:   2019-08-01 60:03:25 -0800
-tags: [ubuntu, CLI, commands, Varnish, linux]
-categories: [linux]
-image: nginx.png
+permalink: /varnish-commands
 ---
 
 ***Install Varnish***

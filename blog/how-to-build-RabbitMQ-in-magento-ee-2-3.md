@@ -1,10 +1,6 @@
 ---
 layout: default
-title:  "How to use RabbitMQ in Magento EE 2.3"
-date:   2019-02-01 60:03:25 -0800
-tags: [github, Magento 2, supravatm, blog, cms, opensource, wordpress, blogger, Magento EE, opensource, RabbitMQ]
-categories: [magento2]
-image: magento2.png
+permalink: /how-to-build-RabbitMQ-in-magento-ee-2-3
 ---
 
 **What Is RabbitMQ**:

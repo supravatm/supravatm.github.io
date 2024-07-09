@@ -1,8 +1,6 @@
 ---
 layout: default
-title:  "How to Create A Sandbox Script-in-magento2"
-date:   2018-08-22 60:03:25 -0800
-categories: [magento2]
+permalink: /how-to-create-a-Sandbox-Script-in-magento2
 ---
 Just like the script from Magento 1.x, if you need to do some basic sandbox testing of functionality, you can do it within this simple sandbox script.
 

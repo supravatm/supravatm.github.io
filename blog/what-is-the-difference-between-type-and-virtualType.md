@@ -1,10 +1,6 @@
 ---
 layout: default
-title:  "What is the difference between type and virtualType"
-date:   2019-02-01 60:03:25 -0800
-tags: [github, Magento 2, supravatm, blog, cms, opensource, wordpress, blogger]
-categories: [magento2]
-image: magento2.png
+permalink: /what-is-the-difference-between-type-and-virtualType
 ---
 
 Virtual types are a way to inject different dependencies into existing classes without affecting other classes.

@@ -1,8 +1,6 @@
 ---
 layout: default
-title:  "How to call Owl Slider in Magento2"
-date:   2018-08-22 60:03:25 -0800
-categories: [magento2]
+permalink: /how-to-call-owl-slider-in-magento2
 ---
 
 

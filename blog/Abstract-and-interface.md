@@ -1,10 +1,6 @@
 ---
 layout: default
-title:  "Abstract Class and interface"
-date:   2018-08-22 60:03:25 -0800
-tags: [github, Magento 2, supravatm, blog, cms, opensource, wordpress, blogger]
-categories: [magento2]
-image: magento2.png
+permalink: /abstract-and-interface
 ---
 
 **Abstract Class**:

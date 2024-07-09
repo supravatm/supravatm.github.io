@@ -1,5 +1,5 @@
-title: Supravat Mondal - Open Source Developer
-logo: /assets/img/logo.webp
+title: Supravat Mondal
+logo: /assets/img/supravat-mondal-logo-picture.jpg
 email: supravat.com@gmail.com
 description: SDE @ Open. Adobe-Commerce(Magento 2)
 favicon: true
@@ -17,7 +17,7 @@ plugins:
   - jekyll-sitemap
 
 platforms:
-  - name: Résumé
+  - name: Resume
     icon: <i class="fa-solid fa-file-lines"></i>
     link: ./assets/files/Adobe-Commerce-Engineer-Supravat-Mondal.pdf
   - name: GitHub
@@ -29,3 +29,6 @@ platforms:
   - name: Projects
     icon: <i class="fa-solid fa-file-code"></i>
     link: ./projects
+- name: Blogs
+    icon: <i class="fa-solid fa-blog"></i>
+    link: ./blogs

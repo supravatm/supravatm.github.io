@@ -2,6 +2,9 @@
 layout: default
 permalink: /setup-magento-2-on-nginx-web-server-ubuntu-18.04
 ---
+**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Setup magento 2 on nginx web server ubuntu-18.04**
+
+##### Setup magento 2 on nginx web server ubuntu-18.04
 
 Hi Everyone,
 

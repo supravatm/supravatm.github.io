@@ -2,6 +2,9 @@
 layout: default
 permalink: /what-is-the-difference-between-type-and-virtualType
 ---
+**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> What is the difference between type and virtualType**
+
+##### What is the difference between type and virtualType:
 
 Virtual types are a way to inject different dependencies into existing classes without affecting other classes.
 

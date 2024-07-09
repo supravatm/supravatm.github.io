@@ -2,7 +2,9 @@
 layout: default
 permalink: /how-to-call-owl-slider-in-magento2
 ---
+**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> How to call Owl Slider in Magento2**
 
+##### How to call Owl Slider in Magento2
 
 You have to created one **requirejs-config.js** file inside your theme,
 

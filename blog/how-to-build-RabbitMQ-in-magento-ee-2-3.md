@@ -2,6 +2,9 @@
 layout: default
 permalink: /how-to-build-RabbitMQ-in-magento-ee-2-3
 ---
+**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> How to use RabbitMQ in Magento EE 2.3**
+
+##### How to use RabbitMQ in Magento EE 2.3
 
 **What Is RabbitMQ**:
 

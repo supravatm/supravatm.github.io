@@ -91,7 +91,7 @@ permalink: /blogs
   </li>
   <li style="display:flex">
     <date><time>Nov 28</time></date>
-    <a href="https://supravatm.github.io/example-post.html">How to Create A Sandbox Script-in-magento2</a>
+    <a href="https://supravatm.github.io/how-to-create-a-Sandbox-Script-in-magento2.html">How to Create A Sandbox Script-in-magento2</a>
   </li>
   <li style="display:flex">
     <date><time>Oct 26</time></date>
@@ -119,6 +119,6 @@ permalink: /blogs
   </li>
   <li style="display:flex">
     <date><time>Jan 12</time></date>
-    <a href="https://supravatm.github.io/varnish-commands.html">varnish-commands</a>
+    <a href="https://supravatm.github.io/varnish-commands.html">Varnish Commands</a>
   </li>
 </ul>

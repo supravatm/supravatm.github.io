@@ -19,7 +19,7 @@ plugins:
 platforms:
   - name: Resume
     icon: <i class="fa-solid fa-file-lines"></i>
-    link: ./assets/files/Adobe-Commerce-Engineer-Supravat-Mondal.pdf
+    link: https://supravatm.github.io/assets/files/Adobe-Commerce-Engineer-Supravat-Mondal.pdf
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/supravatm
@@ -28,7 +28,7 @@ platforms:
     link: https://www.linkedin.com/in/supravat/
   - name: Projects
     icon: <i class="fa-solid fa-file-code"></i>
-    link: ./projects
+    link: https://supravatm.github.io/projects.html
   - name: Blogs
     icon: <i class="fa-solid fa-blog"></i>
-    link: ./blogs
+    link: https://supravatm.github.io/blogs.html

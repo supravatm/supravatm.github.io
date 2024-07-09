@@ -62,60 +62,14 @@
 }
 
 
-main#content ul#posts {
-  list-style-type: none;
-  font-size: 16px;
-  font-size: 1.6rem;
-  margin-top: 0;
-  padding: 0
-}
-
-main#content ul#posts li {
-  margin: 5px 0;
-  padding: 0
-}
-
-main#content ul#posts small {
-  font-size: .8em;
-  color: #767676;
-  margin-left: 10px;
-  overflow: hidden;
-  white-space: nowrap
-}
 
 main#content ul#posts date {
-  font-size: .8em;
-  color: #767676;
-  margin-top: 3px;
-  margin-right: 10px;
-  min-width: 50px;
-  width: 50px;
-  overflow: hidden;
-  white-space: nowrap
-}
-
-main#content ul#posts li a {
-  text-decoration: none
-}
-
-main#content ul#posts li a:hover {
-  color: #369aff
-}
-
-main#content ul#posts li a:hover small {
-  color: inherit
-}
-
-main#content header#post-header h1 {
-  display: block;
-  font-size: 16px;
-  font-size: 1.6rem;
-  font-weight: 600;
-  line-height: 1.15
-}
-
-main#content header#post-header>div {
-  display: block;
-  font-size: .85em;
-  color: #767676
+    font-size: .8em;
+    color: #767676;
+    margin-top: 3px;
+    margin-right: 10px;
+    min-width: 50px;
+    width: 50px;
+    overflow: hidden;
+    white-space: nowrap
 }

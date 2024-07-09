@@ -36,7 +36,8 @@ In the codebase we see the following two configurations:
 
 The first snippet creates a virtual type for **Magento\Core\Model\Session\Storage** which alters the namespace, and the second inject the virtual type into **Magento\Framework\Session\Generic**.  This allows **Magento\Framework\Session\Generic** to be customized without affecting other classes that also declare a dependency on **Magento\Framework\Session\Storage**
 
-```lua
+```php
+<?php
 use App\Markdown\Extensions\WarningExtension;
 use League\CommonMark\Environment\Environment;
 use League\CommonMark\Extension\CommonMark\CommonMarkCoreExtension;
@@ -55,4 +56,24 @@ $environment->addExtension(new WarningExtension());
 $output = (new MarkdownConverter($environment))
     ->convert(file_get_contents(__DIR__.'/markdown/article.md'))
     ->getContent();
+```
+
+Next to here
+
+```php
+<?php
+
+class MyMarkdown extends \cebe\markdown\Markdown
+{
+	protected function identifyFencedCode($line, $lines, $current)
+	{
+		// if a line starts with at least 3 backticks it is identified as a fenced code block
+		if (strncmp($line, '```', 3) === 0) {
+			return true;
+		}
+		return false;
+	}
+
+	// ...
+}
 ```

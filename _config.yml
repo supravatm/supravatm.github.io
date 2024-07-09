@@ -29,6 +29,6 @@ platforms:
   - name: Projects
     icon: <i class="fa-solid fa-file-code"></i>
     link: ./projects
-- name: Blogs
+  - name: Blogs
     icon: <i class="fa-solid fa-blog"></i>
     link: ./blogs

@@ -7,68 +7,74 @@ permalink: /blogs
 ## Posts:
 
 <p>Here you can explore everything I wrote 📝 on this website. It allows you to follow my journey through time. Get updates by subscribing to <a href="/blog/index.xml">RSS</a>.</p>
-<h4>2023</h4><ul id="posts"><li style="display:flex"><date><time>Apr 19</time></date>
-<a href="https://www.bodunhu.com/blog/posts/shepherd-serving-dnns-in-the-wild/">SHEPHERD: Serving DNNs in the Wild</a></li></ul><h4>2022</h4><ul id="posts"><li style="display:flex"><date><time>Aug 30</time></date>
-<a href="https://www.bodunhu.com/blog/posts/tensorir-transformation/">TensorIR Transformation</a></li><li style="display:flex"><date><time>Aug 28</time></date>
-<a href="https://www.bodunhu.com/blog/posts/dive-into-tensorir/">Dive into TensorIR</a></li><li style="display:flex"><date><time>Mar 31</time></date>
-<a href="https://www.bodunhu.com/blog/posts/pathways-googles-new-ml-system/">Pathways: Google's New ML System</a></li><li style="display:flex"><date><time>Feb 22</time></date>
-<a href="https://www.bodunhu.com/blog/posts/flexflow/">FlexFlow</a></li><li style="display:flex"><date><time>Feb 15</time></date>
-<a href="https://www.bodunhu.com/blog/posts/add-mermaid-to-hugo-with-dark-mode/">Add Mermaid to Hugo with Dark Mode</a></li><li style="display:flex"><date><time>Feb 13</time></date>
-<a href="https://www.bodunhu.com/blog/posts/cross-entropy-loss/">Cross Entropy Loss</a></li><li style="display:flex"><date><time>Jan 24</time></date>
-<a href="https://www.bodunhu.com/blog/posts/maximum-likelihood-for-classification/">Maximum Likelihood for Classification</a></li><li style="display:flex"><date><time>Jan 8</time></date>
-<a href="https://www.bodunhu.com/blog/posts/machine-learning-system-resources/">Machine Learning System Resources</a></li></ul><h4>2021</h4><ul id="posts"><li style="display:flex"><date><time>Dec 1</time></date>
-<a href="https://www.bodunhu.com/blog/posts/megatron-with-fastmoe/">Megatron with FastMoE</a></li><li style="display:flex"><date><time>Nov 16</time></date>
-<a href="https://www.bodunhu.com/blog/posts/set-up-slurm-across-multiple-machines/">Set up Slurm across Multiple Machines</a></li><li style="display:flex"><date><time>Nov 9</time></date>
-<a href="https://www.bodunhu.com/blog/posts/paper-review-dynamic-tensor-rematerialization/">Paper Review - Dynamic Tensor Rematerialization</a></li><li style="display:flex"><date><time>Nov 7</time></date>
-<a href="https://www.bodunhu.com/blog/posts/paper-review-capuchin-tensor-based-gpu-memory-management-for-deep-learning/">Paper Review - Capuchin: Tensor-based GPU Memory Management for Deep Learning</a></li><li style="display:flex"><date><time>Nov 5</time></date>
-<a href="https://www.bodunhu.com/blog/posts/starting-out-phd/">Starting Out PhD</a></li><li style="display:flex"><date><time>Oct 19</time></date>
-<a href="https://www.bodunhu.com/blog/posts/handle-github-password-authentication-deprecation/">Handle GitHub Password Authentication Deprecation</a></li><li style="display:flex"><date><time>Oct 18</time></date>
-<a href="https://www.bodunhu.com/blog/posts/consensus-problem-in-distributed-systems/">Consensus Problem in Distributed Systems</a></li><li style="display:flex"><date><time>Oct 5</time></date>
-<a href="https://www.bodunhu.com/blog/posts/fault-tolerance-in-distributed-systems/">Fault Tolerance in Distributed Systems</a></li><li style="display:flex"><date><time>Sep 23</time></date>
-<a href="https://www.bodunhu.com/blog/posts/consistency-models-explained/">Consistency Models Explained</a></li><li style="display:flex"><date><time>Sep 21</time></date>
-<a href="https://www.bodunhu.com/blog/posts/lamport-distributed-mutual-exclusion/">Lamport Distributed Mutual Exclusion</a></li><li style="display:flex"><date><time>Sep 11</time></date>
-<a href="https://www.bodunhu.com/blog/posts/specifying-token-ring-for-mutual-exclusion/">Specifying Token Ring for Mutual Exclusion</a></li><li style="display:flex"><date><time>Sep 8</time></date>
-<a href="https://www.bodunhu.com/blog/posts/writing-specifications-for-a-distributed-system-using-ivy/">Writing Specifications for a Distributed System using Ivy</a></li><li style="display:flex"><date><time>Sep 5</time></date>
-<a href="https://www.bodunhu.com/blog/posts/whiz-data-driven-analytics-execution/">Whiz: Data-Driven Analytics Execution</a></li><li style="display:flex"><date><time>Aug 31</time></date>
-<a href="https://www.bodunhu.com/blog/posts/in-network-aggregation-for-shared-machine-learning-clusters/">In-Network Aggregation for Shared Machine Learning Clusters</a></li><li style="display:flex"><date><time>Aug 29</time></date>
-<a href="https://www.bodunhu.com/blog/posts/what-is-memcached/">What is Memcached</a></li><li style="display:flex"><date><time>Aug 27</time></date>
-<a href="https://www.bodunhu.com/blog/posts/deploy-hugo-site-to-github-pages/">Deploy Hugo Site to GitHub Pages</a></li><li style="display:flex"><date><time>Aug 20</time></date>
-<a href="https://www.bodunhu.com/blog/posts/quantum-search-algorithm/">Quantum Search Algorithm</a></li><li style="display:flex"><date><time>Aug 19</time></date>
-<a href="https://www.bodunhu.com/blog/posts/quantum-state-in-a-nutshell/">Quantum State in a Nutshell</a></li><li style="display:flex"><date><time>Aug 9</time></date>
-<a href="https://www.bodunhu.com/blog/posts/writing-in-the-sciences-writing-process/">Writing in the Sciences - Writing Process</a></li><li style="display:flex"><date><time>Aug 8</time></date>
-<a href="https://www.bodunhu.com/blog/posts/writing-in-the-sciences-structure/">Writing in the Sciences - Structure</a></li><li style="display:flex"><date><time>Jul 31</time></date>
-<a href="https://www.bodunhu.com/blog/posts/writing-in-the-sciences-verbs/">Writing in the Sciences - Verbs</a></li><li style="display:flex"><date><time>Jul 30</time></date>
-<a href="https://www.bodunhu.com/blog/posts/writing-in-the-sciences-cut-the-clutter/">Writing in the Sciences - Cut the Clutter</a></li><li style="display:flex"><date><time>Jul 14</time></date>
-<a href="https://www.bodunhu.com/blog/posts/unitary-matrix/">Unitary Matrix</a></li><li style="display:flex"><date><time>Jul 6</time></date>
-<a href="https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/">BGP in a Nutshell</a></li><li style="display:flex"><date><time>Jun 21</time></date>
-<a href="https://www.bodunhu.com/blog/posts/from-autotools-to-cmake/">From Autotools to CMake</a></li><li style="display:flex"><date><time>May 21</time></date>
-<a href="https://www.bodunhu.com/blog/posts/how-sat-solver-works/">How SAT Solver works</a></li><li style="display:flex"><date><time>May 16</time></date>
-<a href="https://www.bodunhu.com/blog/posts/experience-on-dafny-programming/">Experience on Dafny Programming</a></li><li style="display:flex"><date><time>May 14</time></date>
-<a href="https://www.bodunhu.com/blog/posts/ethereum/">Ethereum</a></li><li style="display:flex"><date><time>May 10</time></date>
-<a href="https://www.bodunhu.com/blog/posts/reflections-on-my-cs-phd-application-process/">Reflections on my CS PhD Application Process</a></li><li style="display:flex"><date><time>Apr 19</time></date>
-<a href="https://www.bodunhu.com/blog/posts/blockchain/">Blockchain</a></li><li style="display:flex"><date><time>Apr 17</time></date>
-<a href="https://www.bodunhu.com/blog/posts/hoare-logic/">Hoare Logic</a></li><li style="display:flex"><date><time>Mar 27</time></date>
-<a href="https://www.bodunhu.com/blog/posts/congruence-closure/">Congruence Closure</a></li></ul><h4>2020</h4><ul id="posts"><li style="display:flex"><date><time>Nov 3</time></date>
-<a href="https://www.bodunhu.com/blog/posts/program-loading-and-memory-mapping-in-linux/">Program Loading and Memory Mapping in Linux</a></li><li style="display:flex"><date><time>Oct 24</time></date>
-<a href="https://www.bodunhu.com/blog/posts/scheduler-activation/">Scheduler Activation</a></li><li style="display:flex"><date><time>Oct 22</time></date>
-<a href="https://www.bodunhu.com/blog/posts/add-mathjax-support-to-jekyll-and-hugo/">Add MathJax Support to Jekyll and Hugo</a></li><li style="display:flex"><date><time>Sep 23</time></date>
-<a href="https://www.bodunhu.com/blog/posts/linux-program-measurement-and-mmap/">Linux Program Measurement and mmap</a></li><li style="display:flex"><date><time>Sep 21</time></date>
-<a href="https://www.bodunhu.com/blog/posts/memory-resource-management-in-vmware-esx-server/">Memory Resource Management in VMware ESX Server</a></li><li style="display:flex"><date><time>Sep 16</time></date>
-<a href="https://www.bodunhu.com/blog/posts/xen-and-the-art-of-virtualization/">Xen and the Art of Virtualization</a></li><li style="display:flex"><date><time>Sep 14</time></date>
-<a href="https://www.bodunhu.com/blog/posts/start-linux-kernel-hacking/">Start Linux Kernel Hacking</a></li><li style="display:flex"><date><time>Sep 13</time></date>
-<a href="https://www.bodunhu.com/blog/posts/performance-anomaly-of-802.11b/">Performance Anomaly of 802.11b</a></li><li style="display:flex"><date><time>Sep 1</time></date>
-<a href="https://www.bodunhu.com/blog/posts/exokernel/">Exokernel</a></li><li style="display:flex"><date><time>Aug 27</time></date>
-<a href="https://www.bodunhu.com/blog/posts/sketch-on-the-unix-timesharing-system/">Sketch on the UNIX Timesharing System</a></li><li style="display:flex"><date><time>Mar 1</time></date>
-<a href="https://www.bodunhu.com/blog/posts/monads-in-haskell/">Monads in Haskell</a></li><li style="display:flex"><date><time>Feb 10</time></date>
-<a href="https://www.bodunhu.com/blog/posts/singular-value-decomposition/">Singular Value Decomposition</a></li></ul><h4>2019</h4><ul id="posts"><li style="display:flex"><date><time>Sep 17</time></date>
-<a href="https://www.bodunhu.com/blog/posts/understanding-probabilistic-clock-synchronization/">Understanding Probabilistic Clock Synchronization</a></li><li style="display:flex"><date><time>Jun 25</time></date>
-<a href="https://www.bodunhu.com/blog/posts/how-to-put-papers-on-arxiv/">How to Put Papers on ArXiv</a></li><li style="display:flex"><date><time>Feb 18</time></date>
-<a href="https://www.bodunhu.com/blog/posts/a-little-review-on-barrelfish-memory-managements/">A Little Review on Barrelfish Memory Managements</a></li><li style="display:flex"><date><time>Jan 15</time></date>
-<a href="https://www.bodunhu.com/blog/posts/pascal-gpu-memory-and-cache-hierarchy/">Pascal GPU memory and cache hierarchy</a></li></ul><h4>2018</h4><ul id="posts"><li style="display:flex"><date><time>Apr 1</time></date>
-<a href="https://www.bodunhu.com/blog/posts/map-reduce/">Map Reduce</a></li></ul><h4>2017</h4><ul id="posts"><li style="display:flex"><date><time>Nov 13</time></date>
-<a href="https://www.bodunhu.com/blog/posts/networks/">Networks</a></li><li style="display:flex"><date><time>Oct 30</time></date>
-<a href="https://www.bodunhu.com/blog/posts/file-system-design/">File System Design</a></li><li style="display:flex"><date><time>Oct 25</time></date>
-<a href="https://www.bodunhu.com/blog/posts/disk-introduction/">Disk Introduction</a></li><li style="display:flex"><date><time>Oct 19</time></date>
-<a href="https://www.bodunhu.com/blog/posts/virtual-memory-mechanisms/">Virtual Memory Mechanisms</a></li><li style="display:flex"><date><time>Oct 8</time></date>
-<a href="https://www.bodunhu.com/blog/posts/virtual-memory-overview/">Virtual Memory Overview</a></li></ul>
+<h4>2024</h4>
+<ul id="posts">
+  <li style="display:flex">
+    <date><time>Jan 09</time></date>
+    <a href="#">Technology Explained in Fewer than 140 Characters</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Feb 21</time></date>
+    <a href="#">17 Superstars We'd Love to Recruit for Our technology Team</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Mar 28</time></date>
+    <a href="#">10 Things We All Hate About technology</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Apr 26</time></date>
+    <a href="#">7 Things About technology You'll Kick Yourself for Not Knowing</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Jul 19</time></date>
+    <a href="#">12 Steps to Finding the Perfect technology</a>
+  </li>
+</ul>
 
+<h4>2023</h4>
+
+<ul id="posts">
+  <li style="display:flex">
+    <date><time>Jan 09</time></date>
+    <a href="#">A Beginner's Guide to job search</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Feb 21</time></date>
+    <a href="#">6 Online Communities About job search You Should Join</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Mar 28</time></date>
+    <a href="#">10 Principles of Psychology You Can Use to Improve Your job search</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Apr 26</time></date>
+    <a href="#">5 Laws Anyone Working in job search Should Know</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Jul 19</time></date>
+    <a href="#">11 Ways to Completely Revamp Your job search</a>
+  </li>
+</ul>
+<h4>2022</h4>
+<ul id="posts">
+  <li style="display:flex">
+    <date><time>Jan 09</time></date>
+    <a href="#">Everything You've Ever Wanted to Know About Backend Developer</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Feb 21</time></date>
+    <a href="#">What I Wish I Knew a Year Ago About Backend Developer</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Mar 28</time></date>
+    <a href="#">What's the Current Job Market for Backend Developer Professionals Like?</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Apr 26</time></date>
+    <a href="#">10 Startups That'll Change the Backend Developer Industry for the Better</a>
+  </li>
+  <li style="display:flex">
+    <date><time>Jul 19</time></date>
+    <a href="#">5 Things Everyone Gets Wrong About Backend Developer</a>
+  </li>
+</ul>

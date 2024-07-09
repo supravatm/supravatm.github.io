@@ -111,7 +111,7 @@ December 2011 - February 2017</p>
     <li>Planet Sports Asia a part of @mapactive, the largest chain of sports shop in Indonesia to support healthy and happy lifestyle.</li>
     <li>Integrate Magento with  ERP application, Module Customization & Development</li>
   </ul>
-  <a href="https://www.planetsports.asia/"><span class="card-link-spanner"></span></a>
+  <a href="https://www.planetsports.asia/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 <div class="card">
   <h3>crocs.in</h3>
@@ -120,7 +120,7 @@ December 2011 - February 2017</p>
     <li>Crocs is a popular footwear brands in the world, Selling</li>
     <li>Integrate Magento with ERP application, Module Customization & Development</li>
   </ul>
-  <a href="https://www.crocs.in/"><span class="card-link-spanner"></span></a>
+  <a href="https://www.crocs.in/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 <div class="card">
   <h3>Converse</h3>
@@ -129,9 +129,9 @@ December 2011 - February 2017</p>
     <li>converse is a popular footwear brands in the world</li>
     <li>Integrate Magento with  ERP application, Module Customization & Development</li>
   </ul>
-  <a href="https://www.converse.in/"><span class="card-link-spanner"></span></a>
+  <a href="https://www.converse.in/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
-[... See all projects](./projects)
+[... See all projects](https://supravatm.github.io/projects.html)
 
 ---

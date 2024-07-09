@@ -13,7 +13,7 @@ permalink: /projects
     <li>Planet Sports Asia a part of @mapactive, the largest chain of sports shop in Indonesia to support healthy and happy lifestyle.</li>
     <li>Integrate Magento with  ERP application, Module Customization & Development</li>
   </ul>
-  <a href="https://www.planetsports.asia/"><span class="card-link-spanner"></span></a>
+  <a href="https://www.planetsports.asia/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -23,7 +23,7 @@ permalink: /projects
     <li>Crocs is a popular footwear brands in the world, Selling</li>
     <li>Integrate Magento with ERP application, Module Customization & Development</li>
   </ul>
-  <a href="https://www.crocs.in/"><span class="card-link-spanner"></span></a>
+  <a href="https://www.crocs.in/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -33,7 +33,7 @@ permalink: /projects
     <li>converse is a popular footwear brands in the world</li>
     <li>Integrate Magento with  ERP application, Module Customization & Development</li>
   </ul>
-  <a href="https://www.converse.in/"><span class="card-link-spanner"></span></a>
+  <a href="https://www.converse.in/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -43,7 +43,7 @@ permalink: /projects
     <li>Reebok is a popular footwear brands in the world</li>
     <li>Integrate Magento with  ERP application, Module Customization & Development</li>
   </ul>
-  <a href="https://www.Reebok.id/"><span class="card-link-spanner"></span></a>
+  <a href="https://www.Reebok.id/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -53,7 +53,7 @@ permalink: /projects
     <li>Kidzstation is a popular footwear brands in the world</li>
     <li>Integrate Magento with  ERP application, Module Customization & Development</li>
   </ul>
-  <a href="https://www.Kidzstation.co.id.in/"><span class="card-link-spanner"></span></a>
+  <a href="https://www.Kidzstation.co.id.in/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -63,7 +63,7 @@ permalink: /projects
     <li>n this project I have been working on SAP integration and all kinds of 3 rd party integration like Sendy for campaign email , AWS SES for transaction email , SMS API, Payment Gateway etc. Also I have communicated with clients as technical consultancy.</li>
     <li>Eureka Forbes sells products for household and institutional use. Its core products are consumer durable products which include water purifiers, security systems, air purifiers, vacuum cleaners and ancillary services.</li>
   </ul>
-  <a href="https://www.eurekaforbes.com/"><span class="card-link-spanner"></span></a>
+  <a href="https://www.eurekaforbes.com/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -73,7 +73,7 @@ permalink: /projects
     <li>I have worked in this project as a Sr. Developer, gathering all client requirement from client side also decision making and lead junior developers.</li>
     <li>Mufti Jeans is one of the most renowned Pan India brand of Men's Clothing with more than a thousand outlets and exclusive showrooms in all over India.</li>
   </ul>
-  <a href="#"><span class="card-link-spanner"></span></a>
+  <a href="#" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -84,7 +84,7 @@ permalink: /projects
     <li>Best college Art  is an art initiative which gets authentic art from the artist studio, directly to the collector. It is a platform for young aspiring artists to reach out to collectors to buy Indian Contemporary Art at fair value with the help of technology.
     </li>
   </ul>
-  <a href="#"><span class="card-link-spanner"></span></a>
+  <a href="#" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -95,7 +95,7 @@ permalink: /projects
     <li>Integrate Magento with  ERP application. Module Customization & Development.</li>
     <li>End to End Encryption on chunks to provide extra security.</li>
   </ul>
-  <a href="https://www.tilraymedical.ca/"><span class="card-link-spanner"></span></a>
+  <a href="https://www.tilraymedical.ca/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -105,7 +105,7 @@ permalink: /projects
     <li>xByte Technology is a premier reseller of IT equipment company. They specialize in servers, storage, networking and components for Dell, Cisco, Juniper, and HPE.</li>
     <li>Integrate Magento with  ERP application, Module Customization & Development</li>
   </ul>
-  <a href="https://www.xbyte.com/"><span class="card-link-spanner"></span></a>
+  <a href="https://www.xbyte.com/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -115,5 +115,5 @@ permalink: /projects
     <li>Roam1 is a company that selling online international SIM cards for travelers.</li>
     <li>Integrate Laravel with  ERP application. Module Customization & Development.</li>
   </ul>
-  <a href="https://www.roam1.com/"><span class="card-link-spanner"></span></a>
+  <a href="https://www.roam1.com/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>

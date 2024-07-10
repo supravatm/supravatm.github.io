@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Supravat Mondal's Blog About Magento, PHP, Docker And More
+title: Supravat Mondal's blogs | About Adobe Commerce, Laravel, PHP and more
 description: Supravat Mondal is an Adobe Commerce Certified Magento developer in Kolkata, India.
 permalink: /blogs
 ---

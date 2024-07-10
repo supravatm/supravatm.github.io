@@ -1,5 +1,7 @@
 ---
 layout: default
+title: What is the difference between type and virtualType
+description: What is the difference between type and virtualType
 permalink: /what-is-the-difference-between-type-and-virtualType
 ---
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> What is the difference between type and virtualType**

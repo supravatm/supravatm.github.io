@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Supravat Mondal's Personal Blogs 
-description: I'm a passionate and experienced software developer with over 12 years of experience in the industry. I have a deep understanding of software development principles and a proven track record of delivering high-quality, scalable solutions. I'm proficient in a variety of programming languages and technologies, and I'm always eager to learn new things.
+title: About Supravat Mondal
+description: Supravat Mondal is an Adobe Commerce Certified Magento developer in Kolkata, India.
 image: /assets/img/supravat-mondal-logo-picture.webp
 ---
 ## About Me:

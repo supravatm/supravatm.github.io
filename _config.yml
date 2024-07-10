@@ -1,5 +1,6 @@
 logo: /assets/img/supravat-mondal-logo-picture.webp
 email: supravat.com@gmail.com
+description: SDE @ Open. Adobe-Commerce(Magento 2)
 favicon: true
 remote_theme: supravatm/jekyll-theme-minimalistic
 color-scheme: light
@@ -21,6 +22,9 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/supravatm
+  - name: StackOverflow
+    icon: <i class="fa-brands fa-stack-overflow"></i>
+    link: https://magento.stackexchange.com/users/3368/supravat-mondal
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/supravat/

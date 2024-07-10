@@ -30,6 +30,7 @@ The above config would make it so that all instances of <mark>Magento\Framework\
 In the codebase we see the following two configurations:
 </p>
 <?php
+
     <virtualType name="Magento\Core\Model\Session\Storage" type="Magento\Framework\Session\Storage">
         <arguments>
             <argument name="namespace" xsi:type="string">core</argument>
@@ -41,6 +42,7 @@ In the codebase we see the following two configurations:
             <argument name="storage" xsi:type="object">Magento\Core\Model\Session\Storage</argument>
         </arguments>
     </type>
+    
 ?>
 <p class='blog-text-font-property'>
 The first snippet creates a virtual type for <mark>Magento\Core\Model\Session\Storage</mark> which alters the namespace, and the second inject the virtual type into <mark>Magento\Framework\Session\Generic</mark>  This allows <mark>Magento\Framework\Session\Generic</mark> to be customized without affecting other classes that also declare a dependency on <mark>Magento\Framework\Session\Storage</mark>

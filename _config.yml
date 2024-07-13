@@ -1,19 +1,18 @@
+
 logo: /assets/img/supravat-mondal-logo-picture.webp
 email: supravat.com@gmail.com
 description: SDE @ Open. Adobe-Commerce(Magento 2)
 favicon: true
 remote_theme: supravatm/jekyll-theme-minimalistic
 color-scheme: light
-
 google_analytics: GTM-WSTTQ659
-
 url: "https://github.com/supravatm/"
 
 plugins:
+  - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
-  - jekyll-remote-theme
-  - jekyll-sitemap
+  - jekyll-feed
 
 platforms:
   - name: Resume
@@ -33,4 +32,4 @@ platforms:
     link: https://supravatm.github.io/projects.html
   - name: Blogs
     icon: <i class="fa-solid fa-blog"></i>
-    link: https://supravatm.github.io/blogs.html
+    link: ./blogs.html

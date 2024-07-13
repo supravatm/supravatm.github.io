@@ -38,31 +38,32 @@ permalink: /blogs
     <a href="#">Everything You've Ever Wanted to Know About Backend Developer</a>
   </li>
 </ul>
+
 <h4>2020</h4>
 <ul id="posts">
   <li style="display:flex">
     <date><time>Dec 30</time></date>
-    <a href="https://supravatm.github.io/how-to-call-owl-slider-in-magento2.html">How to call Owl Slider in Magento2</a>
+    <a href="/how-to-call-owl-slider-in-magento2.html">How to call Owl Slider in Magento2</a>
   </li>
   <li style="display:flex">
     <date><time>Dec 14</time></date>
-    <a href="https://supravatm.github.io/dependency-injection-magento-2.html">Dependency Injection Magento2</a>
+    <a href="/dependency-injection-magento-2.html">Dependency Injection Magento2</a>
   </li>
   <li style="display:flex">
     <date><time>Nov 28</time></date>
-    <a href="https://supravatm.github.io/how-to-create-a-Sandbox-Script-in-magento2.html">How to Create A Sandbox Script-in-magento2</a>
+    <a href="/how-to-create-a-Sandbox-Script-in-magento2.html">How to Create A Sandbox Script-in-magento2</a>
   </li>
   <li style="display:flex">
     <date><time>Oct 26</time></date>
-    <a href="https://supravatm.github.io/magento2-overriding-the-customer-login-form-template.html">How to overriding the Customer Login Form Template in Magento 2</a>
+    <a href="/magento2-overriding-the-customer-login-form-template.html">How to overriding the Customer Login Form Template in Magento 2</a>
   </li>
   <li style="display:flex">
     <date><time>Aug 19</time></date>
-    <a href="https://supravatm.github.io/abstract-and-interface.html">Abstract Class and interface</a>
+    <a href="/abstract-and-interface.html">Abstract Class and interface</a>
   </li>
   <li style="display:flex">
     <date><time>Jun 15</time></date>
-    <a href="https://supravatm.github.io/what-is-the-difference-between-type-and-virtualType.html">What is the difference between type and virtualType</a>
+    <a href="/what-is-the-difference-between-type-and-virtualType.html">What is the difference between type and virtualType</a>
   </li>
   <li style="display:flex">
     <date><time>May 05</time></date>
@@ -70,10 +71,10 @@ permalink: /blogs
   </li>
   <li style="display:flex">
     <date><time>Mar 27</time></date>
-    <a href="https://supravatm.github.io/useful-ubuntu-commands.html">Useful Ubuntu Commands</a>
+    <a href="/useful-ubuntu-commands.html">Useful Ubuntu Commands</a>
   </li>
   <li style="display:flex">
     <date><time>Jan 12</time></date>
-    <a href="https://supravatm.github.io/varnish-commands.html">Varnish Commands</a>
+    <a href="/varnish-commands.html">Varnish Commands</a>
   </li>
 </ul>

@@ -13,7 +13,7 @@ To create a symlink at `/home/user/Desktop` which references the original file `
 ```
 ln -s /home/name/Downloads /home/name/Desktop
 ```
-As Example, `ln -s /etc/nginx/sites-available/b2bbtech /etc/nginx/sites-enabled/`
+As Example, <mark>ln -s /etc/nginx/sites-available/b2bbtech /etc/nginx/sites-enabled/</mark>
 
 ***Remove symbolic link***
 

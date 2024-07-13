@@ -6,6 +6,8 @@ permalink: /how-to-call-owl-slider-in-magento2
 
 ##### How to call Owl Slider in Magento2
 
+We will learn how to integrate owl carousel slider in Magento 2 for product listings.
+
 You have to created one **requirejs-config.js** file inside your theme,
 
 First Add **owlcarousel.js** file inside,
@@ -21,9 +23,9 @@ app/design/frontend/pakage_name/theme_name/Magento_Theme/web/css
 ```
 Call css inside your tempalte file using,
 
-{% highlight ruby %}
+```javascript
 <link rel="stylesheet" type="text/css" href="<?php echo $block->getViewFileUrl('Magento_Catalog::css/owlcarousel.css')?>">
-{% endhighlight %}
+```
 
 Now create **requirejs-config.js** file
 
@@ -33,7 +35,7 @@ app/design/frontend/pakage_name/theme_name/Magento_Theme/requirejs-config.js
 
 Define your slider,
 
-{% highlight ruby %}
+```javascript
 var config = {
     paths: {            
             'owlcarousel': "Magento_Catalog/js/owlcarousel"
@@ -44,26 +46,26 @@ var config = {
         }
     }
 };
-{% endhighlight %}
+```
 
 
 Now you can use owlcarousel under any phtml file,
 
-{% highlight ruby %}
+```html
 <div class="products list items product-items owlslider">
    <ul>
-     <li>1</li>
-     <li>2</li>
-     <li>3</li>
-     <li>4</li>
-     <li>5</li>       
+     <li>Item 1</li>
+     <li>Item 2</li>
+     <li>Item 3</li>
+     <li>Item 4</li>
+     <li>Item 5</li>       
   </ul>
 </div>
-{% endhighlight %}
+```
 
 And add javascript in bootom of the same page
 
-{% highlight ruby %}
+```javascript
 (function  () {
     require(["jquery","owlcarousel"],function($) {
         $(document).ready(function() {
@@ -75,8 +77,8 @@ And add javascript in bootom of the same page
         });
     });
 })();
-{% endhighlight %}
+```
 
-### Note:
+#### Note:
 
-Remove **pub/static** folder content and run following command from terminal ```php bin/magento setup:static-content:deploy ``` .
+> Remove **pub/static** folder content and run following command from terminal <mark>php bin/magento setup:static-content:deploy</mark> .

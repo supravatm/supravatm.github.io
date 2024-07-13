@@ -20,24 +20,23 @@ permalink: /dependency-injection-magento-2
 
 #### Helper Class in Magento 2 (Data.php):
 
-{% highlight ruby %}
+```ruby
 namespace Namespace\Module\Helper;
-
-class Data extends \Magento\Framework\App\Helper\AbstractHelper
+class Data extends Magento\Framework\App\Helper\AbstractHelper
 {
     public function HelperFunc()
     {
         return 1;
     }
 }
-{% endhighlight %}
+```
 
 #### Calling HelperFunc() using DI:
 
-{% highlight ruby %}
+```ruby
 class ClassName
 {
-    public function __construct(\Namespace\Module\Helper\Data $helper)
+    public function __construct(Namespace\Module\Helper\Data $helper)
     {
         $this->helper = $helper;
     }
@@ -46,6 +45,6 @@ class ClassName
         $this->helper->HelperFunc();
     }
 }
-{% endhighlight %}
+```
 
 <p>In above code class, you can see how Dependency is injected into the constructor of the class. You can use this method anywhere in Magento 2.</p>

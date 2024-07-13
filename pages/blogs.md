@@ -8,12 +8,12 @@ permalink: /blogs
 
 ##### Latest articles:
 
-<p>Here you can explore everything I wrote 📝 on this website. It allows you to follow my journey through time. Get updates by subscribing to <a href="/blog/index.xml">RSS</a>.</p>
+<p>Here you can explore everything I wrote 📝 on this website. It allows you to follow my journey through time. Get updates by subscribing to <a href="/sitemap.xml">RSS</a>.</p>
 <h4>2024</h4>
 <ul id="posts">
   <li style="display:flex">
     <date><time>Jan 09</time></date>
-    <a href="https://supravatm.github.io/example-post.html">Technology Explained in Fewer than 140 Characters</a>
+    <a href="#">Everything You've Ever Wanted to Know About Backend Developer</a>
   </li>
 </ul>
 
@@ -21,25 +21,23 @@ permalink: /blogs
 <ul id="posts">
   <li style="display:flex">
     <date><time>Jan 09</time></date>
-    <a href="https://supravatm.github.io/example-post.html">A Beginner's Guide to job search</a>
-  </li>
-  <li style="display:flex">
-    <date><time>Jul 19</time></date>
-    <a href="https://supravatm.github.io/example-post.html">11 Ways to Completely Revamp Your job search</a>
+    <a href="#">Everything You've Ever Wanted to Know About Backend Developer</a>
   </li>
 </ul>
 <h4>2022</h4>
 <ul id="posts">
   <li style="display:flex">
     <date><time>Jan 09</time></date>
-    <a href="https://supravatm.github.io/example-post.html">Everything You've Ever Wanted to Know About Backend Developer</a>
-  </li>
-  <li style="display:flex">
-    <date><time>Jul 19</time></date>
-    <a href="https://supravatm.github.io/example-post.html">5 Things Everyone Gets Wrong About Backend Developer</a>
+    <a href="#">Everything You've Ever Wanted to Know About Backend Developer</a>
   </li>
 </ul>
-
+<h4>2021</h4>
+<ul id="posts">
+  <li style="display:flex">
+    <date><time>Jan 09</time></date>
+    <a href="#">Everything You've Ever Wanted to Know About Backend Developer</a>
+  </li>
+</ul>
 <h4>2020</h4>
 <ul id="posts">
   <li style="display:flex">
@@ -56,15 +54,11 @@ permalink: /blogs
   </li>
   <li style="display:flex">
     <date><time>Oct 26</time></date>
-    <a href="https://supravatm.github.io/magento2-overriding-the -customer-login-form-template.html">How to overriding the Customer Login Form Template in Magento 2</a>
+    <a href="https://supravatm.github.io/magento2-overriding-the-customer-login-form-template.html">How to overriding the Customer Login Form Template in Magento 2</a>
   </li>
   <li style="display:flex">
     <date><time>Aug 19</time></date>
     <a href="https://supravatm.github.io/abstract-and-interface.html">Abstract Class and interface</a>
-  </li>
-  <li style="display:flex">
-    <date><time>Jul 08</time></date>
-    <a href="https://supravatm.github.io/how-to-build-RabbitMQ-in-magento-ee-2-3.html">How to use RabbitMQ in Magento EE 2.3</a>
   </li>
   <li style="display:flex">
     <date><time>Jun 15</time></date>
@@ -72,7 +66,7 @@ permalink: /blogs
   </li>
   <li style="display:flex">
     <date><time>May 05</time></date>
-    <a href="https://supravatm.github.io/setup-magento-2-on-nginx-web-server-ubuntu.html">Setup magento 2 on nginx web server ubuntu-18.04</a>
+    <a href="#">Setup magento 2 on nginx web server ubuntu-18.04</a>
   </li>
   <li style="display:flex">
     <date><time>Mar 27</time></date>

@@ -2,7 +2,7 @@
 layout: default
 title: Varnish CLI Commands, Tips and Tricks
 description: Varnish CLI Commands, Tips and Tricks | Supravat Mondal
-permalink: /varnish-commands
+permalink: /varnish-commands.html
 ---
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Varnish Commands**
 

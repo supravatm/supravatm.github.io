@@ -3,7 +3,7 @@ layout: default
 title: What is the difference between type and virtualType
 description: What is the difference between type and virtualType
 image: /assets/img/supravat-mondal-logo-picture.webp
-permalink: /what-is-the-difference-between-type-and-virtualType
+permalink: /what-is-the-difference-between-type-and-virtualType.html
 ---
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> What is the difference between type and virtualType**
 
@@ -42,7 +42,7 @@ In the codebase we see the following two configurations:
             <argument name="storage" xsi:type="object">Magento\Core\Model\Session\Storage</argument>
         </arguments>
     </type>
-    
+
 ?>
 <p class='blog-text-font-property'>
 The first snippet creates a virtual type for <mark>Magento\Core\Model\Session\Storage</mark> which alters the namespace, and the second inject the virtual type into <mark>Magento\Framework\Session\Generic</mark>  This allows <mark>Magento\Framework\Session\Generic</mark> to be customized without affecting other classes that also declare a dependency on <mark>Magento\Framework\Session\Storage</mark>

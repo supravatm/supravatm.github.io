@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /how-to-call-owl-slider-in-magento2
+permalink: /how-to-call-owl-slider-in-magento2.html
 ---
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> How to call Owl Slider in Magento2**
 

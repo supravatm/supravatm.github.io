@@ -1,12 +1,19 @@
-
+title: Supravat Mondal
 logo: /assets/img/supravat-mondal-logo-picture.webp
 email: supravat.com@gmail.com
+owner_name: Supravat Mondal
 description: SDE @ Open. Adobe-Commerce(Magento 2)
 favicon: true
 remote_theme: supravatm/jekyll-theme-minimalistic
 color-scheme: light
 google_analytics: GTM-WSTTQ659
 url: "https://github.com/supravatm/"
+baseurl: "/"
+
+github:
+  is_project_page: true
+  owner_url: https://github.com/supravatm/
+  owner_name: supravatm
 
 plugins:
   - jekyll-sitemap
@@ -29,7 +36,7 @@ platforms:
     link: https://www.linkedin.com/in/supravat/
   - name: Projects
     icon: <i class="fa-solid fa-file-code"></i>
-    link: https://supravatm.github.io/projects.html
+    link: ./projects.html
   - name: Blogs
     icon: <i class="fa-solid fa-blog"></i>
     link: ./blogs.html

@@ -1,11 +1,10 @@
 {% unless site.hide_project_footer %}
     {% if site.github.is_project_page %}
-    <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+    <p style="margin-bottom: 0px"><small>Project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
     {% endif %}
 {% endunless %}
 <p style="margin-bottom: 0px">
     <small>
-        <a href="https://github.com/supravatm/jekyll-theme-minimalistic">Minimalistic</a> &mdash; Theme by 
-        <a href="https://github.com/supravatm/">supravatm</a>
+        &copy; 2020-{{ site.time | date: '%Y' }} {{ site.owner_name }}
     </small>
 </p>

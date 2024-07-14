@@ -2,7 +2,7 @@
 layout: default
 title: Supravat Mondal's blogs | About Adobe Commerce, Laravel, PHP and more
 description: Supravat Mondal is an Adobe Commerce Certified Magento developer in Kolkata, India.
-permalink: /blogs
+permalink: /blogs.html
 ---
 **[Home](/) >> Blog**
 
@@ -10,12 +10,22 @@ permalink: /blogs
 
 <p>Here you can explore everything I wrote 📝 on this website. It allows you to follow my journey through time. Get updates by subscribing to <a href="/sitemap.xml">RSS</a>.</p>
 
-<h4>2024</h4>
+
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+<h4>{{ year.name }}</h4>
+{% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 <ul id="posts">
-  {% for post in site.posts %}
+{% for month in postsByMonth %}
+
+
+  {% for post in month.items %}
     <li style="display:flex">
       <date><time>{{ post.date | date: "%-d %b" }}</time></date>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-  </ul>
+
+{% endfor %}
+</ul>
+{% endfor %}

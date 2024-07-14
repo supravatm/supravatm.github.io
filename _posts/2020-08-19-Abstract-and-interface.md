@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /abstract-and-interface.html
+permalink: /abstract-and-interface
 ---
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Abstract Class and interface**
 

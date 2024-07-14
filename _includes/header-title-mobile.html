@@ -1,6 +1,6 @@
 <section>
     {% if site.logo %}
-    <a href="{{ site.baseurl }}"><img class="logo" src="{{ site.logo | relative_url }}" alt="Logo"></a>
+    <a href="{{ site.url }}"><img class="logo" src="{{ site.logo | relative_url }}" alt="Logo"></a>
     {% endif %}
     
     <h1>{{ site.title | default: site.github.repository_name }}</h1>

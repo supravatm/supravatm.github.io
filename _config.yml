@@ -7,8 +7,7 @@ favicon: true
 remote_theme: supravatm/jekyll-theme-minimalistic
 color-scheme: light
 google_analytics: GTM-WSTTQ659
-url: "https://github.com/supravatm/"
-baseurl: "/"
+
 
 github:
   is_project_page: true

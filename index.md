@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Supravat Mondal - Personal Blog Site | Magento2 Developer or Adobe Commerce Certified Magento Developer
-description: Supravat Mondal is an Adobe Commerce Certified Magento developer in Kolkata, India.
+title: Supravat Mondal | Adobe Commerce Certified Magento Developer &#64; Kolkata, India
+description: Supravat Mondal | Adobe Commerce Certified Magento Developer &#64; Kolkata, India
 image: /assets/img/supravat-mondal-logo-picture.webp
 ---
-## About Me:
+## Hey, I'm Supravat! 👋
 
 I have over 12 years of experience in increasingly responsible roles as a software developer in the field of e-commerce websites. I have vast experience in e-commerce (Magento 2) web application development.
 

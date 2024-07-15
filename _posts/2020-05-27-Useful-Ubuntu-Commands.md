@@ -1,6 +1,7 @@
 ---
 layout: default
-permalink: /useful-ubuntu-commands
+title: Useful Ubuntu Commands
+permalink: /useful-ubuntu-commands.html
 ---
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Useful Ubuntu Commands**
 

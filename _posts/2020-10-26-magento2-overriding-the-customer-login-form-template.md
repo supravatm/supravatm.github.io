@@ -1,6 +1,7 @@
 ---
 layout: default
-permalink: /magento2-overriding-the-customer-login-form-template
+title: How to overriding the Customer Login Form Template in Magento 2
+permalink: /magento2-overriding-the-customer-login-form-template.html
 ---
 **[Home](/) >> [Blog](/blogs.html) >> How to overriding the Customer Login Form Template in Magento 2**
 

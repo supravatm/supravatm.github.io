@@ -1,6 +1,7 @@
 ---
 layout: default
-permalink: /dependency-injection-magento-2
+title: Dependency Injection Magento2
+permalink: /dependency-injection-magento-2.html
 ---
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Dependency Injection Magento2**
 

@@ -1,6 +1,7 @@
 ---
 layout: default
-permalink: /how-to-create-a-Sandbox-Script-in-magento2
+title: How to Create A Sandbox Script-in-magento2
+permalink: /how-to-create-a-Sandbox-Script-in-magento2.html
 ---
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> How to Create A Sandbox Script-in-magento2**
 

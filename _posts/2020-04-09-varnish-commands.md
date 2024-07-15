@@ -6,7 +6,7 @@ permalink: /varnish-commands.html
 ---
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Varnish Commands**
 
-### Varnish Commands
+## Varnish Commands
 Varnish  as  a  command  line  interface  (CLI)  which  can control and change most of the operational parameters and the configuration of Varnish, without interrupting the  running service.
 
 

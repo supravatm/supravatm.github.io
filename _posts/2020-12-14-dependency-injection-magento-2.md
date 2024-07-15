@@ -5,7 +5,7 @@ permalink: /dependency-injection-magento-2.html
 ---
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Dependency Injection Magento2**
 
-##### Dependency Injection Magento2
+## Dependency Injection Magento2
 
 <p>In programming languages, a dependency is known as the object which is needed by a class to perform some functions. Injection is the passing of that particular dependency to a dependent object/class. The real meaning of Dependency Injection is to inject the dependency into the class from another source.</p>
 

@@ -5,7 +5,7 @@ permalink: /useful-ubuntu-commands.html
 ---
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Useful Ubuntu Commands**
 
-##### Useful Ubuntu Commands
+## Useful Ubuntu Commands
 
 ***Create symbolic link***
 

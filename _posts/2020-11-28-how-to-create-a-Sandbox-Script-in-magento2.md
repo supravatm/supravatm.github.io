@@ -5,7 +5,7 @@ permalink: /how-to-create-a-Sandbox-Script-in-magento2.html
 ---
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> How to Create A Sandbox Script-in-magento2**
 
-##### How to Create A Sandbox Script-in-magento2
+## How to Create A Sandbox Script-in-magento2
 
 Just like the script from Magento 1.x, if you need to do some basic sandbox testing of functionality, you can do it within this simple sandbox script.
 

@@ -5,7 +5,7 @@ permalink: /how-to-call-owl-slider-in-magento2.html
 ---
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> How to call Owl Slider in Magento2**
 
-##### How to call Owl Slider in Magento2
+## How to call Owl Slider in Magento2
 
 We will learn how to integrate owl carousel slider in Magento 2 for product listings.
 

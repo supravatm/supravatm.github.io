@@ -5,7 +5,7 @@ permalink: /magento2-overriding-the-customer-login-form-template.html
 ---
 **[Home](/) >> [Blog](/blogs.html) >> How to overriding the Customer Login Form Template in Magento 2**
 
-##### How to overriding the Customer Login Form Template in Magento 2
+## How to overriding the Customer Login Form Template in Magento 2
 
 To successfully replace the <b>Magento_Customer::form/login.phml</b> template with a custom template
 

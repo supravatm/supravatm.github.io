@@ -1,12 +1,15 @@
 ---
 layout: default
-title: Supravat Mondal's Projects Development | Adobe Commerce, Laravel, PHP and more
-description: Supravat Mondal is an Adobe Commerce Certified Magento developer in Kolkata, India.
+title: Supravat Mondal &#8739; Projects Portfolio
+description: Supravat Mondal | Adobe Commerce Magento developer projects portfolio.
+image: /assets/img/supravat-mondal-logo-picture.webp
 permalink: /projects.html
 ---
 **[Home](/) >> Projects**
 
 ## Projects:
+
+<p>Here, you can see some of the latest and most interesting projects that I have worked on so far. It allows you to follow my journey through time.</p>
 
 <div class="card">
   <h3>Planet Sports Asia</h3>

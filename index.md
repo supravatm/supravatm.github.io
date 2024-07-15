@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Supravat Mondal | Adobe Commerce Certified Magento Developer &#64; Kolkata, India
-description: Supravat Mondal | Adobe Commerce Certified Magento Developer &#64; Kolkata, India
+title: Supravat Mondal &#8739; Adobe Commerce Developer in India
+description: Supravat Mondal &#8739; Adobe Commerce Magento Developer in India
 image: /assets/img/supravat-mondal-logo-picture.webp
 ---
 ## Hey, I'm Supravat! 👋

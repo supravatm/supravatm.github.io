@@ -1,4 +1,4 @@
-title: Supravat Mondal
+
 logo: /assets/img/supravat-mondal-logo-picture.webp
 email: supravat.com@gmail.com
 owner_name: Supravat Mondal
@@ -13,6 +13,7 @@ github:
   is_project_page: true
   owner_url: https://github.com/supravatm/
   owner_name: supravatm
+  repository_name: Supravat Mondal
 
 plugins:
   - jekyll-sitemap
@@ -23,10 +24,7 @@ plugins:
 platforms:
   - name: Resume
     icon: <i class="fa-solid fa-file-lines"></i>
-    link: https://supravatm.github.io/assets/files/Adobe-Commerce-Engineer-Supravat-Mondal.pdf
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/supravatm
+    link: ./assets/files/Adobe-Commerce-Engineer-Supravat-Mondal.pdf
   - name: StackOverflow
     icon: <i class="fa-brands fa-stack-overflow"></i>
     link: https://magento.stackexchange.com/users/3368/supravat-mondal

@@ -21,4 +21,3 @@ To successfully replace the <b>Magento_Customer::form/login.phml</b> template wi
 6. <p>Refresh your <span style="color:#267CB9">http://YOUR_DOMAIN.COM/customer/account/login/</span> page, or go visit it, and view the desired changes.</p>
 _________________
 
-{% include fb-like.html %}

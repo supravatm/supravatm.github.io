@@ -54,4 +54,3 @@ The first snippet creates a virtual type for <mark>Magento\Core\Model\Session\St
 
 _________________
 
-{% include fb-like.html %}

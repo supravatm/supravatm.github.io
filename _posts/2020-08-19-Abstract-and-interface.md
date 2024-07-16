@@ -50,4 +50,3 @@ permalink: /abstract-and-interface.html
 
 _________________
 
-{% include fb-like.html %}

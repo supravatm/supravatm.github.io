@@ -16,7 +16,7 @@ github:
   repository_name: Supravat Mondal
 
 #Facebook Sharing
-facebook_app_id: 369958183689694
+#facebook_app_id: 369958183689694
 
 plugins:
   - jekyll-sitemap

@@ -96,4 +96,3 @@ wget -P /opt/wordpress https://wordpress.org/latest.zip
 ```
 _________________
 
-{% include fb-like.html %}

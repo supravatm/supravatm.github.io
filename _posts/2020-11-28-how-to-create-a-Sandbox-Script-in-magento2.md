@@ -30,4 +30,3 @@ I know that when I need to tinker with a new platform, a bootstrap is always goo
 
 _________________
 
-{% include fb-like.html %}

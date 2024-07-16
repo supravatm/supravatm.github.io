@@ -6,6 +6,10 @@ permalink: /dependency-injection-magento-2.html
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Dependency Injection Magento2**
 
 ## Dependency Injection Magento2
+<small>
+    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
+    <i class="fa-regular fa-clock"></i> 4 min read
+</small>
 
 <p>In programming languages, a dependency is known as the object which is needed by a class to perform some functions. Injection is the passing of that particular dependency to a dependent object/class. The real meaning of Dependency Injection is to inject the dependency into the class from another source.</p>
 
@@ -49,3 +53,7 @@ class ClassName
 ```
 
 <p>In above code class, you can see how Dependency is injected into the constructor of the class. You can use this method anywhere in Magento 2.</p>
+
+_________________
+
+{% include fb-like.html %}

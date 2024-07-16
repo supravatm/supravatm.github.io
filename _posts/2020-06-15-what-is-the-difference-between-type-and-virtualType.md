@@ -8,6 +8,10 @@ permalink: /what-is-the-difference-between-type-and-virtualType.html
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> What is the difference between type and virtualType**
 
 ## What is the difference between type and virtualType:
+<small>
+    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
+    <i class="fa-regular fa-clock"></i> 4 min read
+</small>
 
 <p class='blog-text-font-property'>Virtual types are a way to inject different dependencies into existing classes without affecting other classes.
 </p>
@@ -47,3 +51,7 @@ In the codebase we see the following two configurations:
 <p class='blog-text-font-property'>
 The first snippet creates a virtual type for <mark>Magento\Core\Model\Session\Storage</mark> which alters the namespace, and the second inject the virtual type into <mark>Magento\Framework\Session\Generic</mark>  This allows <mark>Magento\Framework\Session\Generic</mark> to be customized without affecting other classes that also declare a dependency on <mark>Magento\Framework\Session\Storage</mark>
 </p>
+
+_________________
+
+{% include fb-like.html %}

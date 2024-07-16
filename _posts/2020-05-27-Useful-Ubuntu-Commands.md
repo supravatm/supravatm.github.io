@@ -6,6 +6,10 @@ permalink: /useful-ubuntu-commands.html
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Useful Ubuntu Commands**
 
 ## Useful Ubuntu Commands
+<small>
+    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
+    <i class="fa-regular fa-clock"></i> 4 min read
+</small>
 
 ***Create symbolic link***
 
@@ -90,3 +94,6 @@ To download the file and save it in a different directory, you can use the -P op
 ```
 wget -P /opt/wordpress https://wordpress.org/latest.zip
 ```
+_________________
+
+{% include fb-like.html %}

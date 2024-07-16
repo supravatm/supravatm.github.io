@@ -7,6 +7,11 @@ permalink: /varnish-commands.html
 **[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Varnish Commands**
 
 ## Varnish Commands
+<small>
+    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
+    <i class="fa-regular fa-clock"></i> 4 min read
+</small>
+
 Varnish  as  a  command  line  interface  (CLI)  which  can control and change most of the operational parameters and the configuration of Varnish, without interrupting the  running service.
 
 
@@ -108,3 +113,6 @@ sudo apt-get purge --auto-remove varnish
 
 [Installing and configuring Varnish](https://www.varnish-software.com/wiki/content/tutorials/varnish/varnish_ubuntu.html)
 
+_________________
+
+{% include fb-like.html %}

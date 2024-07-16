@@ -104,6 +104,13 @@ pre.highlight code {
   font-size: 0.9em;
 }
 
+.fbbtn {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 .highlight .hll { background-color: #ffffcc }
 .highlight .c { color: #8f5902; font-style: italic } /* Comment */

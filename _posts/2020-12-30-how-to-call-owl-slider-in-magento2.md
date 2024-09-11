@@ -21,6 +21,16 @@ You have to created one **requirejs-config.js** file inside your theme,
 
 First Add **owlcarousel.js** file inside,
 
+
+<pre lang="javascript"><code>var user = "string"
+</code></pre>
+
+
+```js
+var user = "string"
+```
+
+
 ```
 app/design/frontend/pakage_name/theme_name/Magento_Theme/web/js
 ```
@@ -62,13 +72,13 @@ Now you can use owlcarousel under any phtml file,
 
 ```html
 <div class="products list items product-items owlslider">
-   <ul>
-     <li>Item 1</li>
-     <li>Item 2</li>
-     <li>Item 3</li>
-     <li>Item 4</li>
-     <li>Item 5</li>       
-  </ul>
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+    <li>Item 4</li>
+    <li>Item 5</li>       
+</ul>
 </div>
 ```
 

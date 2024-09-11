@@ -412,4 +412,4 @@ There may be more, for example the CustomerRepository has a method get, which fe
 
 [APIs and Service Contracts blog](https://meetmagentoacademy.github.io/magento2-training-resources/backend/modules/service_contracts.html")
 
-> Download the complete code from [Github](https://github.com/supravatm/m2-sample/tree/master/admin-crud-module) .
+> Download the complete code from [Github](https://github.com/supravatm/magento2-sample-modules/tree/master/05.smaple-service-contract-with-rest-api) .

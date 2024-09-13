@@ -12,44 +12,45 @@ permalink: /how-can-the-repository-be-exposed-as-an-api-resource.html
 </small>
 
 
-<p>This part is really simple, it's the reward for going through all the work creating the interfaces, the implementations and wiring them together.</p>
+This part is really simple, it's the reward for going through all the work creating the interfaces, the implementations and wiring them together.
 
-<p>All we need to do is create an <code>etc/webapi.xm</code> file.  </p>
+All we need to do is create an `etc/webapi.xm` file.
 
-
-    <?xml version="1.0"?>
-    <routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Webapi:etc/webapi.xsd">
-        <route method="GET" url="/V1/blog_post/:id">
-            <service class="VinaiKopp\Kitchen\Api\HamburgerRepositoryInterface" method="getById"/>
-            <resources>
-                <resource ref="anonymous"/>
-            </resources>
-        </route>
-        <route method="GET" url="/V1/blog_post">
-            <service class="VinaiKopp\Kitchen\Api\HamburgerRepositoryInterface" method="getList"/>
-            <resources>
-                <resource ref="anonymouns"/>
-            </resources>
-        </route>
-        <route method="POST" url="/V1/blog_post">
-            <service class="VinaiKopp\Kitchen\Api\HamburgerRepositoryInterface" method="save"/>
-            <resources>
-                <resource ref="anonymous"/>
-            </resources>
-        </route>
-        <route method="PUT" url="/V1/blog_post">
-            <service class="VinaiKopp\Kitchen\Api\HamburgerRepositoryInterface" method="save"/>
-            <resources>
-                <resource ref="anonymous"/>
-            </resources>
-        </route>
-        <route method="DELETE" url="/V1/blog_post">
-            <service class="VinaiKopp\Kitchen\Api\HamburgerRepositoryInterface" method="delete"/>
-            <resources>
-                <resource ref="anonymous"/>
-            </resources>
-        </route>
-    </routes>
+```
+<?xml version="1.0"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Webapi:etc/webapi.xsd">
+    <route method="GET" url="/V1/blog_post/:id">
+        <service class="SMG\Blog\Api\PostRepositoryInterface" method="getById"/>
+        <resources>
+            <resource ref="anonymous"/>
+        </resources>
+    </route>
+    <route method="GET" url="/V1/blog_post">
+        <service class="SMG\Blog\Api\PostRepositoryInterface" method="getList"/>
+        <resources>
+            <resource ref="anonymouns"/>
+        </resources>
+    </route>
+    <route method="POST" url="/V1/blog_post">
+        <service class="SMG\Blog\Api\PostRepositoryInterface" method="save"/>
+        <resources>
+            <resource ref="anonymous"/>
+        </resources>
+    </route>
+    <route method="PUT" url="/V1/blog_post">
+        <service class="SMG\Blog\Api\PostRepositoryInterface" method="save"/>
+        <resources>
+            <resource ref="anonymous"/>
+        </resources>
+    </route>
+    <route method="DELETE" url="/V1/blog_post">
+        <service class="SMG\Blog\Api\PostRepositoryInterface" method="delete"/>
+        <resources>
+            <resource ref="anonymous"/>
+        </resources>
+    </route>
+</routes>
+```
 
 Note that this configuration not only enables the use of the repository as REST endpoints, it also exposes the methods as part of the SOAP API.
 
@@ -63,7 +64,7 @@ Have a look at the Magento Customer  ```etc/webapi.xml``` and ```CustomerReposit
 Finally, the ```<resources>``` can also be used to restrict access to a resource to an admin user account. To do this set the ```<resource>``` ref to an identifier defined in an ```etc/acl.xml``` file.
 For example, ```<resource ref="Magento_Customer::manage"/>``` would restrict access to any admin account who is privileged to manage customers.
 
-<p>An example API query using curl could look like this:  </p>
+An example API query using curl could look like this:
 
     $ curl -X GET http://example.com/rest/V1/blog_post/123
 
@@ -75,6 +76,3 @@ https://github.com/supravatm/magento2-sample-modules/tree/master/05.smaple-servi
 
 
 > Download the complete code from [Github](https://github.com/supravatm/magento2-sample-modules/tree/master/05.smaple-service-contract-with-rest-api) .
-
-2024-09-11-how-can-the-repository-be-exposed-as-an-api-resource.md
-2024-09-09-how-can-the-repository-be-exposed-as-an-api-resource.md

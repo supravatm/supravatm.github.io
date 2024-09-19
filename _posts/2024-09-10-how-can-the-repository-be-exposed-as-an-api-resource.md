@@ -14,9 +14,9 @@ permalink: /how-can-the-repository-be-exposed-as-an-api-resource.html
 
 This part is really simple, it's the reward for going through all the work creating the interfaces, the implementations and wiring them together.
 
-All we need to do is create an `etc/webapi.xm` file.
+All we need to do is create an <span class="inlinecode">etc/webapi.xm</span> file.
 
-```
+```xml
 <?xml version="1.0"?>
 <routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Webapi:etc/webapi.xsd">
     <route method="GET" url="/V1/blog_post/:id">
@@ -54,15 +54,15 @@ All we need to do is create an `etc/webapi.xm` file.
 
 Note that this configuration not only enables the use of the repository as REST endpoints, it also exposes the methods as part of the SOAP API.
 
-In the first example route, ```<route method="GET" url="/V1/blog_post/:id"> ```, the placeholder ```:id``` has to match the name of the argument to the mapped method, public function ```getById($id)```.
-The two names have to match, for example ```/V1/blog_post/:postId``` would not work, since the method argument variable name is ```$id```.
+In the first example route, <span class="inlinecode">&lt;route method="GET" url="/V1/blog_post/:id" &#47;&gt;</span>, the placeholder <span class="inlinecode">:id</span> has to match the name of the argument to the mapped method, public function <span class="inlinecode">getById($id)</span>.
+The two names have to match, for example <span class="inlinecode">/V1/blog_post/:postId</span> would not work, since the method argument variable name is <span class="inlinecode">$id</span>.
 
-For this example I've set the accessability to ```<resource ref="anonymous"/>```. This means the resource is exposed publically without any restriction!
-To make a resource only available to a logged in customer, use ```<resource ref="self"/>```. In this case the special word me in the resource endpoint URL will be used to populate an argument variable ```$id``` with the ID of the currently logged in customer.
-Have a look at the Magento Customer  ```etc/webapi.xml``` and ```CustomerRepositoryInterface``` if you need that.
+For this example I've set the accessability to <span class="inlinecode">&lt;resource ref="anonymous" &#47;&gt;</span>. This means the resource is exposed publically without any restriction!
+To make a resource only available to a logged in customer, use <span class="inlinecode">&lt;resource ref="self" &#47;&gt;</span>. In this case the special word me in the resource endpoint URL will be used to populate an argument variable ```$id``` with the ID of the currently logged in customer.
+Have a look at the Magento Customer  <span class="inlinecode">etc/webapi.xml</span> and <span class="inlinecode">CustomerRepositoryInterface</span> if you need that.
 
-Finally, the ```<resources>``` can also be used to restrict access to a resource to an admin user account. To do this set the ```<resource>``` ref to an identifier defined in an ```etc/acl.xml``` file.
-For example, ```<resource ref="Magento_Customer::manage"/>``` would restrict access to any admin account who is privileged to manage customers.
+Finally, the <span class="inlinecode">resources</span> can also be used to restrict access to a resource to an admin user account. To do this set the <span class="inlinecode">&lt;resource&gt;</span> ref to an identifier defined in an <span class="inlinecode">etc/acl.xml</span> file.
+For example, <span class="inlinecode">&lt;resource ref="Magento_Customer::manage"&#47;&gt;</span> would restrict access to any admin account who is privileged to manage customers.
 
 An example API query using curl could look like this:
 

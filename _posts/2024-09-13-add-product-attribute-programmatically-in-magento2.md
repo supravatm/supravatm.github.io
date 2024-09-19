@@ -13,29 +13,26 @@ permalink: /add-product-attribute-programmatically-in-magento2.html
 
 #### Overview of Adding Product Attribute Programmatically
 
-1. Create file `InstallData.php`
-2. Define the `install()` method
+1. Create file <span class="inlinecode">InstallData.php</span>
+2. Define the <span class="inlinecode">install()</span> method
 3. EAV attribute properties
-4. Create file `UpgradeData` (Optional)
+4. Create file <span class="inlinecode">UpgradeData</span> (Optional)
 
-### 1. Create file `InstallData.php`
+### 1. Create file <span class="inlinecode">InstallData.php</span>
 
-> app/code/SMG/CustomAddProductAttribute/Setup/InstallData.php
+<span class="inlinecode">app/code/SMG/CustomAddProductAttribute/Setup/InstallData.php</span>
 
-```
+```php
 <?php
 namespace SMG\CustomAddProductAttribute\Setup;
-
 use Magento\Eav\Setup\EavSetup;
 use Magento\Eav\Setup\EavSetupFactory;
 use Magento\Framework\Setup\InstallDataInterface;
 use Magento\Framework\Setup\ModuleContextInterface;
 use Magento\Framework\Setup\ModuleDataSetupInterface;
-
 class InstallData implements InstallDataInterface
 {
 	private $eavSetupFactory;
-
 	public function __construct(
         EavSetupFactory $eavSetupFactory
     ) {
@@ -44,33 +41,29 @@ class InstallData implements InstallDataInterface
 }
 ```
 
-### 2. Define the `install()` method
+### 2. Define the <span class="inlinecode">install()<span> method
 
-```
+```php
 <?php
-
 public function install(
     ModuleDataSetupInterface $setup, 
     ModuleContextInterface $context
 ) {
-
 }
 ```
 
 ### 3. EAV attribute properties
 
-Here are all lines code of ```InstallData.php``` to create product attribute programmically.
+Here are all lines code of <span class="inlinecode">InstallData.php<span> to create product attribute programmically.
 
-```
+```php
 <?php
 namespace SMG\CustomAddProductAttribute\Setup;
-
 use Magento\Eav\Setup\EavSetup;
 use Magento\Eav\Setup\EavSetupFactory;
 use Magento\Framework\Setup\InstallDataInterface;
 use Magento\Framework\Setup\ModuleContextInterface;
 use Magento\Framework\Setup\ModuleDataSetupInterface;
-
 class InstallData implements InstallDataInterface
 {
 	private $eavSetupFactory;
@@ -82,7 +75,7 @@ class InstallData implements InstallDataInterface
 	{
 		$eavSetup = $this->eavSetupFactory->create(['setup' => $setup]);
 		$eavSetup->addAttribute(
-			\Magento\Catalog\Model\Product::ENTITY,
+			Magento\Catalog\Model\Product::ENTITY,
 			'sample_attribute',
 			[
 				'type' => 'text',
@@ -92,7 +85,7 @@ class InstallData implements InstallDataInterface
 				'input' => 'text',
 				'class' => '',
 				'source' => '',
-				'global' => \Magento\Eav\Model\Entity\Attribute\ScopedAttributeInterface::SCOPE_GLOBAL,
+				'global' => Magento\Eav\Model\Entity\Attribute\ScopedAttributeInterface::SCOPE_GLOBAL,
 				'visible' => true,
 				'required' => false,
 				'user_defined' => false,
@@ -112,19 +105,17 @@ class InstallData implements InstallDataInterface
 
 Refer the following [link](/eav-attribute-data-type.html) to see the several attribute properties.
 
-### 4. Create file `UpgradeData` (Optional)
+### 4. Create file <span class="inlinecode">UpgradeData</span> (Optional)
 
-After created `sample_attribute` attribue to update the this attribute's properties if needed. `UpgradeData.php` is required to create and upgrade module _schema_version_.
+After created <span class="inlinecode">sample_attribute</span> attribue to update the this attribute's properties if needed. <span class="inlinecode">UpgradeData.php</span> is required to create and upgrade module <span class="inlinecode">schema_version</span>.
 
-```
+```php
 <?php
 namespace SMG\CustomAddProductAttribute\Setup;
-
 use Magento\Framework\Setup\UpgradeDataInterface;
 use Magento\Framework\Setup\ModuleDataSetupInterface;
 use Magento\Framework\Setup\ModuleContextInterface;
 use Magento\Eav\Setup\EavSetupFactory;
-
 class UpgradeData implements UpgradeDataInterface
 {
 	private $eavSetupFactory;
@@ -138,7 +129,7 @@ class UpgradeData implements UpgradeDataInterface
         {
             $eavSetup = $this->eavSetupFactory->create(['setup' => $setup]);
             $eavSetup->updateAttribute(
-                \Magento\Catalog\Model\Product::ENTITY,
+                Magento\Catalog\Model\Product::ENTITY,
 			    'sample_attribute',
                 'frontend_label',
                 'SMG Custom Attribute'
@@ -148,7 +139,7 @@ class UpgradeData implements UpgradeDataInterface
         {
             $eavSetup = $this->eavSetupFactory->create(['setup' => $setup]);
             $eavSetup->updateAttribute(
-                \Magento\Catalog\Model\Product::ENTITY,
+                Magento\Catalog\Model\Product::ENTITY,
 			    'sample_attribute',
                 'frontend_label',
                 'Custom Attribute'

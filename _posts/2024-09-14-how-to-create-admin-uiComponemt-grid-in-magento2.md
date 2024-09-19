@@ -54,7 +54,7 @@ The UI component <span class="inlinecode">product_comment_listing</span> must be
     <item name="spinner" xsi:type="string">product_comment_grid_columns</item>
     <item name="buttons" xsi:type="array">
       ...
-      <!--   responsible for getting the requested data  -->
+      <!--   add Buttons  -->
     </item>
   </argument>
   <dataSource name="product_comment_listing_data_source">
@@ -127,7 +127,7 @@ class ListingDataProvider extends DataProvider
 ```
 
 #### 3: Data source collection {#data-source-collection}
-The dataSource name <span class="inlinecode">product_comment_listing_data_source<span> links to <span class="inlinecode">SMG\RestApiProductComment\Ui\DataProvider\Listing\Collection</span> in 
+The dataSource name <span class="inlinecode">product_comment_listing_data_source</span> links to <span class="inlinecode">SMG\RestApiProductComment\Ui\DataProvider\Listing\Collection</span> in 
 <span class="inlinecode">app/code/SMG/RestApiProductComment/etc/di.xml</span>.
 
 <span class="inlinecode">di.xml</span> also sets the main table and resource model:

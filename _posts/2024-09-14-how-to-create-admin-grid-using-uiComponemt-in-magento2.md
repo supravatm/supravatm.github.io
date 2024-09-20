@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  How to Create An Admin uiComponemt Grid In Magento 2
-permalink: /how-to-create-admin-uiComponemt-grid-in-magento2.html
+title:  How To Create An Admin Grid Using uiComponemt In Magento 2
+permalink: /create-admin-grid-using-uiComponemt-in-magento2.html
 ---
-**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html) >> How to create admin uiComponemt grid in Magento 2**
+**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html) >> How To Create An Admin Grid Using uiComponemt In Magento 2**
 
-##  Add an Admin uiComponemt grid in Magento2
+##  Add An Admin grid using uiComponemt
 <small>
     <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
     <i class="fa-regular fa-clock"></i> 4 min read
@@ -17,14 +17,14 @@ Admin Grids are represents Listing, Filter, and sort various data. They are also
 
 #### To Create Admin Grid using UiComponent
 
-- [1: Define the Admin grid](#define-the-admin-grid)
-- [2: Define the data source class](#define-the-data-source-class)
-- [3: Data source collection](#data-source-collection)
-- [4: Column actions class](#column-actions-class)
-- [5: Backend controllers](#backend-controllers)
+- [1: Define The Admin Grid](#define-the-admin-grid)
+- [2: Define The Data Source Class](#define-the-data-source-class)
+- [3: Data Source Collection](#data-source-collection)
+- [4: Column Actions Class](#column-actions-class)
+- [5: Backend Controllers](#backend-controllers)
 
 
-#### 1: Define the Admin grid {#define-the-admin-grid}
+#### 1: Define The Admin Grid {#define-the-admin-grid}
 
 The page layout file is <span class="inlinecode">view/adminhtml/layout/productcomment_index_index.xml</span>
 
@@ -94,7 +94,7 @@ This file consists of several sections:
 - **columns** - lists the columns to be displayed
 
 
-#### 2: Define the data source class {#define-the-data-source-class}
+#### 2: Define The Data Source Class {#define-the-data-source-class}
 The UI references <span class="inlinecode">SMG\RestApiProductComment\Ui\DataProvider\ListingDataProvider</span> as the data source class. The corresponding file is <span class="inlinecode">app/code/SMG/RestApiProductComment/Ui/DataProvider/ListingDataProvider.php</span>
 
 ```php
@@ -106,7 +106,11 @@ class ListingDataProvider extends DataProvider
 }
 ```
 
-<span class="inlinecode">app/code/SMG/RestApiProductComment/etc/di.xml</span>     
+#### 3: Data Source Collection {#data-source-collection}
+The dataSource name <span class="inlinecode">product_comment_listing_data_source</span> links to <span class="inlinecode">SMG\RestApiProductComment\Ui\DataProvider\Listing\Collection</span> in 
+<span class="inlinecode">app/code/SMG/RestApiProductComment/etc/di.xml</span>.
+
+<span class="inlinecode">di.xml</span> also sets the <span class="inlinecode">mainTable</span> and <span class="inlinecode">resourceModel</span>:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -126,21 +130,6 @@ class ListingDataProvider extends DataProvider
 </virtualType>
 ```
 
-#### 3: Data source collection {#data-source-collection}
-The dataSource name <span class="inlinecode">product_comment_listing_data_source</span> links to <span class="inlinecode">SMG\RestApiProductComment\Ui\DataProvider\Listing\Collection</span> in 
-<span class="inlinecode">app/code/SMG/RestApiProductComment/etc/di.xml</span>.
-
-<span class="inlinecode">di.xml</span> also sets the main table and resource model:
-
-```xml
-<virtualType name="ProductCommentCollection" type="SMG\RestApiProductComment\Ui\DataProvider\Listing\Collection">
-  <arguments>
-    <argument name="mainTable" xsi:type="string">smg_product_comment</argument>
-    <argument name="resourceModel" xsi:type="string">SMG\RestApiProductComment\Model\ResourceModel\ProductComment</argument>
-  </arguments>
-</virtualType>
-```
-
 The collection class translates to
 <span class="inlinecode">app/code/SMG/RestApiProductComment/Ui/DataProvider/Listing/Collection.php</span>
 
@@ -154,7 +143,7 @@ class Collection extends SearchResult
 ```
 
 
-#### 4: Column actions class {#column-actions-class}
+#### 4: Column Actions Class {#column-actions-class}
 The UI grid file defines a column actions class <span class="inlinecode">SMG\RestApiProductComment\Ui\Component\Listing\Column\Actions</span>. The corresponding file is <span class="inlinecode">app/code/SMG/RestApiProductComment/Ui/Component/Listing/Column/Actions.php</span>
 
 ```php
@@ -216,7 +205,7 @@ class Actions extends Column
 }
 ```
 
-#### 5: Backend controllers {#backend-controllers}
+#### 5: Backend Controllers {#backend-controllers}
 The main route defined in <span class="inlinecode">app/code/SMG/RestApiProductComment/etc/adminhtml/menu.xml</span> as <span class="inlinecode">productcomment/index/index</span> translates to <span class="inlinecode">app/code/SMG/RestApiProductComment/Controller/Adminhtml/Index/Index.php</span>:
 
 ```php

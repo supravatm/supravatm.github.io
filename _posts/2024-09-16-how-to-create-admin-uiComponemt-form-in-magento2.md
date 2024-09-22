@@ -11,11 +11,11 @@ permalink: /how-to-create-admin-uiComponemt-form-in-magento2.html
     <i class="fa-regular fa-clock"></i> 4 min read
 </small>
 
-#### Basic Usage of uiComponent Form
+#### Basic Usage of Form component
 
-Admin Grids are represents Listing, Filter, and sort various data. They are also used to perform mass actions such as updates and deletes. 
+The Form component is a collection of fields that can be grouped in tabs and fieldsets. It enables CRUD operations.
 
-#### To Create Admin Grid using UiComponent
+#### To Create Form component
 
 - [1: Define the Form](#define-the-form)
 - [2: Define the Data Source](#define-the-data-source)
@@ -480,4 +480,4 @@ class Save extends  Magento\Backend\App\Action implements HttpPostActionInterfac
 
 #### Completed extension
 ---
-Above mentioned classes and files are used for demonstration purpose. The complete extension can be found on GitHub at [Admin Form Example Extension](https://github.com/supravatm/magento2-sample-modules/tree/master/09.product-comment-module-with-api)
+Above mentioned classes and files are used for demonstration purpose. The complete extension can be found on GitHub at [Admin Grid & Form Example Extension](https://github.com/supravatm/magento2-sample-modules/tree/master/13.admin-grid-and-form-component){:target="_blank"}

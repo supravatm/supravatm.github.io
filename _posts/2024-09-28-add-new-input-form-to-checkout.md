@@ -11,12 +11,14 @@ permalink: /how-to-add-a-new-input-form-to-checkout-in-magento-2.html
     <i class="fa-regular fa-clock"></i> 5 min read
 </small>
 
-This topic describes how to add a new step and then custom input form (implemented as a UI component) inside custom checkout step to the Checkout page.
-
+This topic describes how to add a custom checkout step in Checkout Page in Magento 2. its also demostraite to add a new input form (implemented as a UI component) into the custom checkout step. 
 
 ![add a new input form to the Checkout page in Magento 2](../assets/img/checkout-input-form.png)
 
 #### Key points to remember
+
+In order to add a custom form that is a UI component, take the following steps:
+
 - 1: [Declaration in the checkout page layout](#declaration-in-the-checkout-page-layout)
 - 2: [Create the JS implementation of the form UI component](#create-the-js-implementation-of-the-form-ui-component)
 - 3: [Create the HTML template](#create-the-html-template)

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: artical
 title: How to Create A Sandbox Script-in-magento2
 permalink: /how-to-create-a-Sandbox-Script-in-magento2.html
 ---

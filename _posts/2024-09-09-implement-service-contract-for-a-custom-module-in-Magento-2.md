@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: artical
 title:  Implement service contract for a custom module in Magento 2
 permalink: /implement-service-contract-for-a-custom-module-in-Magento-2.html
 ---

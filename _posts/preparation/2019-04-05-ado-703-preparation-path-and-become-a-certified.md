@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: artical
 title: ADO-703 - Preparation Path and become a Certified
 permalink: /ado-703-preparation-path-and-become-a-certified.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: artical
 title:  How to add custom product attribute to quote and order item in Magento 2
 permalink: /how-to-add-custom-filed-to-quote-and-order-item-in-magento-2.html
 ---

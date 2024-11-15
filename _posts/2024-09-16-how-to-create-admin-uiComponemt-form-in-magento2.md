@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: artical
 title:  How to Create An Admin uiComponemt Form In Magento 2
 permalink: /how-to-create-admin-uiComponemt-form-in-magento2.html
 ---

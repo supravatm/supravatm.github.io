@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: artical
 title:  EAV Attributes in Magento 2
 permalink: /eav-attribute-in-magento2.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: artical
 title:  How to create custom product attribute using Data Patch in Magento 2
 permalink: /how-to-create-custom-product-attribute-using-data-patch-in-magento-2.html
 ---

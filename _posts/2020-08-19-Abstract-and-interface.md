@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: artical
 title: Abstract Class and interface
 permalink: /abstract-and-interface.html
 ---

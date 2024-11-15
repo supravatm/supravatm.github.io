@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: artical
 title: Varnish CLI Commands, Tips and Tricks
 description: Varnish CLI Commands, Tips and Tricks | Supravat Mondal
 permalink: /varnish-commands.html

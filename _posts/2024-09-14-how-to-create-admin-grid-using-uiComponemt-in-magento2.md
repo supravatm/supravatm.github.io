@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: artical
 title:  How To Create An Admin Grid Using uiComponemt In Magento 2
 permalink: /create-admin-grid-using-uiComponemt-in-magento2.html
 ---

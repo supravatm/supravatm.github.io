@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: artical
 title:  Adding Product Attribute Programmatically in Magento2
 permalink: /add-product-attribute-programmatically-in-magento2.html
 ---

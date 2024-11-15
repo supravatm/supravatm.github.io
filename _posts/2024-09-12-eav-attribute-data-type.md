@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: artical
 title:  EAV attribute Data Types in Magento 2
 permalink: /eav-attribute-data-type.html
 ---

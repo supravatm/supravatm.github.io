@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: artical
 title:  Offline Payment Method In Magento 2
 permalink: /how-to-create-a-custom-offline-payment-method-in-magento2.html
 ---

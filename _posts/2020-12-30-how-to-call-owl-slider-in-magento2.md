@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: artical
 title: How to call Owl Slider in Magento2
 description: learn how to integrate owl carousel slider in Magento 2 for product listings.
 permalink: /how-to-call-owl-slider-in-magento2.html

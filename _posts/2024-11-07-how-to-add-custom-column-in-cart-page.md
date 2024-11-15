@@ -3,15 +3,15 @@ layout: default
 title:  How to add custom column in cart page in Magento 2
 permalink: /how-to-add-custom-column-in-cart-page-in-magento-2.html
 tag: magento2,cart-checkout,how-to
+minutes: 4
 ---
 **[Home](https://supravatm.github.io/) >> [Blog](/blogs.html)**
 
 ##  {{ page.title }}
-{% assign minutes = content | number_of_words | divided_by: 160 %}
-{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
+
 <small>
     <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
-    <i class="fa-regular fa-clock"></i> {{ minutes }} min read
+    <i class="fa-regular fa-clock"></i> {{ page.minutes }} min read
 </small>
 
 <p>

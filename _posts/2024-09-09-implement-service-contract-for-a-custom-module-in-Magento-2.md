@@ -2,15 +2,15 @@
 layout: default
 title:  Implement service contract for a custom module in Magento 2
 permalink: /implement-service-contract-for-a-custom-module-in-Magento-2.html
+minutes: 5
 ---
 **[Home](https://supravatm.github.io/) >> [Blog](/blogs.html)**
 
 ##  {{ page.title }}
-{% assign minutes = content | number_of_words | divided_by: 160 %}
-{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
+
 <small>
     <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
-    <i class="fa-regular fa-clock"></i> {{ minutes }} min read
+    <i class="fa-regular fa-clock"></i> {{ page.minutes }} min read
 </small>
 
 #### Create the repository and data model interfaces:

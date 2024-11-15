@@ -1,0 +1,61 @@
+{% case site.color-scheme %}
+  {% when "", nil, false, 0, empty %}
+    {% assign ColorScheme = "auto" %}
+  {% else %}
+    {% assign ColorScheme = site.color-scheme %}
+{% endcase %}
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="preload" href="{{site.logo | relative_url}}" as="image">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <article id="author-artical">
+        <p><strong><a href="https://supravatm.github.io/">Home</a>&nbsp;» <a href="/blogs.html">Blog</a></strong></p>
+        <div class="artical-title" style="text-align: center;"><h2>{{ page.title }}</h2></div>
+        <div class="artical-title" style="text-align: center; margin-bottom: 20px;">
+          <small>
+            <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
+            <i class="fa-regular fa-clock"></i> 5 min read
+          </small>
+        </div>
+        
+
+      {{ content }}
+      {% if page.tags %}
+        <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+      {% endif %}
+      </article>
+      
+
+      <nav class="navigation post-navigation" aria-label="Posts">
+        <div class="nav-links">
+          <div class="nav-previous">
+            <a href="#" rel="prev">How to Create Order Programmatically in Magento 2</a>
+          </div>
+          <div class="nav-next">
+            <a href="#" rel="next">How to Get Applied Cart Rule for Quote in Magento 2</a>
+          </div>
+        </div>
+      </nav>
+
+
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/vanilla-back-to-top.min.js" | relative_url }}"></script>
+    <script>addBackToTop({
+      diameter: 40,
+      backgroundColor: '#ddd',
+      textColor: 'red'
+    })</script>
+  </body>
+</html>

@@ -3,12 +3,14 @@ layout: default
 title:  EAV attribute Data Types in Magento 2
 permalink: /eav-attribute-data-type.html
 ---
-**[Home](https://supravatm.github.io/) >> [Blog](\blogs.html) >> Explanation of EAV Data Type**
+**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html)**
 
-## Explanation of EAV Data Type
+##  {{ page.title }}
+{% assign minutes = content | number_of_words | divided_by: 160 %}
+{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
 <small>
     <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
-    <i class="fa-regular fa-clock"></i> 8 min read
+    <i class="fa-regular fa-clock"></i> {{ minutes }} min read
 </small>
 
 #### Explanation of EAV Data Type

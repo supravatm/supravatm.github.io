@@ -3,12 +3,14 @@ layout: default
 title: Magento 2 Esensial topics for Developer
 permalink: /magento-2-essential-topics-notes-for-developer.html
 ---
-**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Magento 2 Esensial topics for Developer**
+**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html)**
 
-## Magento 2 Esensial topics for Developer
+##  {{ page.title }}
+{% assign minutes = content | number_of_words | divided_by: 160 %}
+{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
 <small>
     <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
-    <i class="fa-regular fa-clock"></i> 4 min read
+    <i class="fa-regular fa-clock"></i> {{ minutes }} min read
 </small>
 
 **Dependency injection**:

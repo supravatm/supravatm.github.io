@@ -3,12 +3,14 @@ layout: default
 title: Dependency Injection Magento2
 permalink: /dependency-injection-magento-2.html
 ---
-**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Dependency Injection Magento2**
+**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html)**
 
-## Dependency Injection Magento2
+##  {{ page.title }}
+{% assign minutes = content | number_of_words | divided_by: 160 %}
+{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
 <small>
     <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
-    <i class="fa-regular fa-clock"></i> 4 min read
+    <i class="fa-regular fa-clock"></i> {{ minutes }} min read
 </small>
 
 <p>In programming languages, a dependency is known as the object which is needed by a class to perform some functions. Injection is the passing of that particular dependency to a dependent object/class. The real meaning of Dependency Injection is to inject the dependency into the class from another source.</p>

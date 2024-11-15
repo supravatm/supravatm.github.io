@@ -3,12 +3,14 @@ layout: default
 title:  How To Create An Admin Grid Using uiComponemt In Magento 2
 permalink: /create-admin-grid-using-uiComponemt-in-magento2.html
 ---
-**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html) >> How To Create An Admin Grid Using uiComponemt In Magento 2**
+**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html)**
 
-##  Add An Admin grid using uiComponemt
+##  {{ page.title }}
+{% assign minutes = content | number_of_words | divided_by: 160 %}
+{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
 <small>
     <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
-    <i class="fa-regular fa-clock"></i> 4 min read
+    <i class="fa-regular fa-clock"></i> {{ minutes }} min read
 </small>
 
 #### Basic Usage of uiComponent Grid

@@ -3,12 +3,14 @@ layout: default
 title: How to overriding the Customer Login Form Template in Magento 2
 permalink: /magento2-overriding-the-customer-login-form-template.html
 ---
-**[Home](/) >> [Blog](/blogs.html) >> How to overriding the Customer Login Form Template in Magento 2**
+**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html)**
 
-## How to overriding the Customer Login Form Template in Magento 2
+##  {{ page.title }}
+{% assign minutes = content | number_of_words | divided_by: 160 %}
+{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
 <small>
     <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
-    <i class="fa-regular fa-clock"></i> 4 min read
+    <i class="fa-regular fa-clock"></i> {{ minutes }} min read
 </small>
 
 To successfully replace the <b>Magento_Customer::form/login.phml</b> template with a custom template

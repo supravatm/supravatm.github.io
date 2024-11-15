@@ -2,8 +2,17 @@
 layout: default
 title:  How to add custom column in cart page in Magento 2
 permalink: /how-to-add-custom-column-in-cart-page-in-magento-2.html
-tag: magento2,cart-checkout,how-to 
+tag: magento2,cart-checkout,how-to
 ---
+**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html)**
+
+##  {{ page.title }}
+{% assign minutes = content | number_of_words | divided_by: 160 %}
+{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
+<small>
+    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
+    <i class="fa-regular fa-clock"></i> {{ minutes }} min read
+</small>
 
 <p>
 By default, customer can be see all the Product name, Image, choose options, price, quantity and subtotal columns display inside the grid after he add product to the cart.

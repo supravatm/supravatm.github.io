@@ -3,12 +3,14 @@ layout: default
 title:  How to create custom product attribute using Data Patch in Magento 2
 permalink: /how-to-create-custom-product-attribute-using-data-patch-in-magento-2.html
 ---
-**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html) >> How to create custom product attribute using Data Patch in Magento 2**
+**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html)**
 
-##  How to create custom product attribute using Data Patch in Magento 2
+##  {{ page.title }}
+{% assign minutes = content | number_of_words | divided_by: 160 %}
+{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
 <small>
     <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
-    <i class="fa-regular fa-clock"></i> 5 min read
+    <i class="fa-regular fa-clock"></i> {{ minutes }} min read
 </small>
 
 <p>Magento 2 provides the provision to create custom product attribute programmatically.</p>

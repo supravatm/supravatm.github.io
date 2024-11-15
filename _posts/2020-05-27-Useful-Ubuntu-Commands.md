@@ -3,12 +3,14 @@ layout: default
 title: Useful Ubuntu Commands
 permalink: /useful-ubuntu-commands.html
 ---
-**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Useful Ubuntu Commands**
+**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html)**
 
-## Useful Ubuntu Commands
+##  {{ page.title }}
+{% assign minutes = content | number_of_words | divided_by: 160 %}
+{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
 <small>
     <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
-    <i class="fa-regular fa-clock"></i> 4 min read
+    <i class="fa-regular fa-clock"></i> {{ minutes }} min read
 </small>
 
 ***Create symbolic link***

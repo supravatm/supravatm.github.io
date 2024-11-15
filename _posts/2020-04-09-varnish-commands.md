@@ -4,12 +4,14 @@ title: Varnish CLI Commands, Tips and Tricks
 description: Varnish CLI Commands, Tips and Tricks | Supravat Mondal
 permalink: /varnish-commands.html
 ---
-**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Varnish Commands**
+**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html)**
 
-## Varnish Commands
+##  {{ page.title }}
+{% assign minutes = content | number_of_words | divided_by: 160 %}
+{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
 <small>
     <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
-    <i class="fa-regular fa-clock"></i> 4 min read
+    <i class="fa-regular fa-clock"></i> {{ minutes }} min read
 </small>
 
 Varnish  as  a  command  line  interface  (CLI)  which  can control and change most of the operational parameters and the configuration of Varnish, without interrupting the  running service.

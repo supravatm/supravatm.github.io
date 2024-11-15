@@ -4,14 +4,14 @@ title: How to call Owl Slider in Magento2
 description: learn how to integrate owl carousel slider in Magento 2 for product listings.
 permalink: /how-to-call-owl-slider-in-magento2.html
 ---
-**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> How to call Owl Slider in Magento2**
+**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html)**
 
-## How to call Owl Slider in Magento2
-
-
+##  {{ page.title }}
+{% assign minutes = content | number_of_words | divided_by: 160 %}
+{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
 <small>
     <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
-    <i class="fa-regular fa-clock"></i> 4 min read
+    <i class="fa-regular fa-clock"></i> {{ minutes }} min read
 </small>
 
 

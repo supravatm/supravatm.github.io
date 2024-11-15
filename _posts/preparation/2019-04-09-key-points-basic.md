@@ -1,5 +1,5 @@
 ---
-layout: artical
+layout: default
 title: Magento 2 Esensial topics for Developer
 permalink: /magento-2-essential-topics-notes-for-developer.html
 ---

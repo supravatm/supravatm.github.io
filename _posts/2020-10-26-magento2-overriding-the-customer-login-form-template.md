@@ -1,5 +1,5 @@
 ---
-layout: artical
+layout: default
 title: How to overriding the Customer Login Form Template in Magento 2
 permalink: /magento2-overriding-the-customer-login-form-template.html
 ---

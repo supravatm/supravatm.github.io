@@ -1,5 +1,5 @@
 ---
-layout: artical
+layout: default
 title:  How to add a new input form to checkout in Magento 2
 permalink: /how-to-add-a-new-input-form-to-checkout-in-magento-2.html
 ---

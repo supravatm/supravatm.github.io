@@ -1,5 +1,5 @@
 ---
-layout: artical
+layout: default
 title: What is the difference between type and virtualType
 description: What is the difference between type and virtualType
 image: /assets/img/supravat-mondal-logo-picture.webp

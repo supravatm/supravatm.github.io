@@ -1,5 +1,5 @@
 ---
-layout: artical
+layout: default
 title: Dependency Injection Magento2
 permalink: /dependency-injection-magento-2.html
 ---

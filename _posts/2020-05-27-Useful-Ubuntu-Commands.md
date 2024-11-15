@@ -1,5 +1,5 @@
 ---
-layout: artical
+layout: default
 title: Useful Ubuntu Commands
 permalink: /useful-ubuntu-commands.html
 ---

@@ -1,5 +1,5 @@
 ---
-layout: artical
+layout: default
 title: Sample Blog Page
 permalink: /sample-blog-page.html
 ---

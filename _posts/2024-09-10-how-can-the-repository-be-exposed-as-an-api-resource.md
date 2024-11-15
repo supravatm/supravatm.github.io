@@ -1,5 +1,5 @@
 ---
-layout: artical
+layout: default
 title:  How can the repository be exposed as an API resource
 permalink: /how-can-the-repository-be-exposed-as-an-api-resource.html
 ---

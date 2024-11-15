@@ -3,13 +3,7 @@ layout: default
 title: ADO-703 - Preparation Path and become a Certified
 permalink: /ado-703-preparation-path-and-become-a-certified.html
 ---
-**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Preparation Path and become a Certified**
 
-## Preparation Path and become a Certified
-<small>
-    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
-    <i class="fa-regular fa-clock"></i> 4 min read
-</small>
 
 **ADO-703 - Preparation Path and become a Certified**:
 

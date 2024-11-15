@@ -3,13 +3,7 @@ layout: default
 title:  How to create custom product attribute using Data Patch in Magento 2
 permalink: /how-to-create-custom-product-attribute-using-data-patch-in-magento-2.html
 ---
-**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html) >> How to create custom product attribute using Data Patch in Magento 2**
 
-##  How to create custom product attribute using Data Patch in Magento 2
-<small>
-    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
-    <i class="fa-regular fa-clock"></i> 5 min read
-</small>
 
 <p>Magento 2 provides the provision to create custom product attribute programmatically.</p>
 <p>We can create custom product attributes using the InstallData setup script as well as using Data Patch. After the release of Magento version 2.3, a data patch is a standard approach to managing database modifications. Using data patch we don’t need to manage <span class="inlinecode">setup_version</span> in <span class="inlinecode">etc/module.xml</span>. So in this blog, we cover the concept of creating custom product attributes using Data Patch with full code. In the following example, we are creating dropdown attribute</p>

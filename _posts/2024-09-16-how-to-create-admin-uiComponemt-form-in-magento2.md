@@ -3,13 +3,7 @@ layout: default
 title:  How to Create An Admin uiComponemt Form In Magento 2
 permalink: /how-to-create-admin-uiComponemt-form-in-magento2.html
 ---
-**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html) >> How to create admin uiComponemt form in Magento 2**
 
-##  Add an Admin uiComponemt form in Magento2
-<small>
-    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
-    <i class="fa-regular fa-clock"></i> 4 min read
-</small>
 
 #### Basic Usage of Form component
 

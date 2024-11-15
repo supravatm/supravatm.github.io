@@ -3,13 +3,7 @@ layout: default
 title: Magento 2 Esensial topics for Developer
 permalink: /magento-2-essential-topics-notes-for-developer.html
 ---
-**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Magento 2 Esensial topics for Developer**
 
-## Magento 2 Esensial topics for Developer
-<small>
-    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
-    <i class="fa-regular fa-clock"></i> 4 min read
-</small>
 
 **Dependency injection**:
 

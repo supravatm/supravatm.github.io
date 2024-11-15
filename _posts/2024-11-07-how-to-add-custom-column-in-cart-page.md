@@ -1,5 +1,5 @@
 ---
-layout: artical
+layout: default
 title:  How to add custom column in cart page in Magento 2
 permalink: /how-to-add-custom-column-in-cart-page-in-magento-2.html
 tag: magento2,cart-checkout,how-to 

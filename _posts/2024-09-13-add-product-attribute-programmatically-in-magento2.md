@@ -3,6 +3,13 @@ layout: default
 title:  Adding Product Attribute Programmatically in Magento2
 permalink: /add-product-attribute-programmatically-in-magento2.html
 ---
+**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Adding Product Attribute Programmatically in Magento2**
+
+## Adding Product Attribute Programmatically in Magento2
+<small>
+    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
+    <i class="fa-regular fa-clock"></i> 4 min read
+</small>
 
 #### Overview of Adding Product Attribute Programmatically
 

@@ -3,7 +3,13 @@ layout: default
 title: Abstract Class and interface
 permalink: /abstract-and-interface.html
 ---
+**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Abstract Class and interface**
 
+## Abstract Class and interface
+<small>
+    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
+    <i class="fa-regular fa-clock"></i> 4 min read
+</small>
 
 **Abstract Class**:
 * An abstract class is a class that contains at least one abstract method. The abstract method is function declaration without anybody and it has the only name of the method and its parameters.

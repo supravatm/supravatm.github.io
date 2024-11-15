@@ -3,7 +3,13 @@ layout: default
 title:  Implement service contract for a custom module in Magento 2
 permalink: /implement-service-contract-for-a-custom-module-in-Magento-2.html
 ---
+**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Implement service contract for a custom module in Magento 2**
 
+## Implement service contract for a custom module in Magento 2
+<small>
+    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
+    <i class="fa-regular fa-clock"></i> 5 min read
+</small>
 
 #### Create the repository and data model interfaces:
 <p>Create the folders <span class="inlinecode">Api/Data/</span> in your module. This is just convention, you could use a different location, but you should not. The repository goes into the <span class="inlinecode">Api/</span> folder. The <span class="inlinecode">Data/</span> subdirectory is for later.</p>

@@ -3,7 +3,13 @@ layout: default
 title:  EAV Attributes in Magento 2
 permalink: /eav-attribute-in-magento2.html
 ---
+**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> EAV Attributes in Magento 2**
 
+## EAV Attributes in Magento 2
+<small>
+    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
+    <i class="fa-regular fa-clock"></i> 3 min read
+</small>
 
 **EAV (Entity-Attribute-Value)**  is a data model that stores data in a flexible and scalable manner. In Magento 2, this model is extensively used to manage product attributes, customer attributes, and other entities.
 

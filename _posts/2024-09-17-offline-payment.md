@@ -3,16 +3,19 @@ layout: default
 title:  Offline Payment Method In Magento 2
 permalink: /how-to-create-a-custom-offline-payment-method-in-magento2.html
 ---
+**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html) >> Offline Payment Method In Magento 2**
+
+##  Creating Offline Payment Method In Magento 2
+<small>
+    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
+    <i class="fa-regular fa-clock"></i> 5 min read
+</small>
 
 #### Offline Payment Method
 Here we are about to see how to create an Offline Payment Method in Magento 2.
 
 #### Key points to remember
 
-
-- 1: Payment method module configuration
-
-    
 - 1: [Create Module](#create-module)
 - 2: [Declare Payment Method](#declare-payment-method)
 - 3: [Payment Method Model Implement](#payment-method-model-implement)

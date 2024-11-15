@@ -5,7 +5,13 @@ description: What is the difference between type and virtualType
 image: /assets/img/supravat-mondal-logo-picture.webp
 permalink: /what-is-the-difference-between-type-and-virtualType.html
 ---
+**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> What is the difference between type and virtualType**
 
+## What is the difference between type and virtualType:
+<small>
+    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
+    <i class="fa-regular fa-clock"></i> 4 min read
+</small>
 
 <p class='blog-text-font-property'>Virtual types are a way to inject different dependencies into existing classes without affecting other classes.
 </p>

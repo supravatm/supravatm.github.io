@@ -3,6 +3,13 @@ layout: default
 title:  How can the repository be exposed as an API resource
 permalink: /how-can-the-repository-be-exposed-as-an-api-resource.html
 ---
+**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> How can the repository be exposed as an API resource**
+
+## How can the repository be exposed as an API resource
+<small>
+    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
+    <i class="fa-regular fa-clock"></i> 3 min read
+</small>
 
 
 This part is really simple, it's the reward for going through all the work creating the interfaces, the implementations and wiring them together.

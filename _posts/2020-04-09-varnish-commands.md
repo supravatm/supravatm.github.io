@@ -4,7 +4,13 @@ title: Varnish CLI Commands, Tips and Tricks
 description: Varnish CLI Commands, Tips and Tricks | Supravat Mondal
 permalink: /varnish-commands.html
 ---
+**[Home](https://supravatm.github.io/) >> [Blog](https://supravatm.github.io/blogs.html) >> Varnish Commands**
 
+## Varnish Commands
+<small>
+    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
+    <i class="fa-regular fa-clock"></i> 4 min read
+</small>
 
 Varnish  as  a  command  line  interface  (CLI)  which  can control and change most of the operational parameters and the configuration of Varnish, without interrupting the  running service.
 

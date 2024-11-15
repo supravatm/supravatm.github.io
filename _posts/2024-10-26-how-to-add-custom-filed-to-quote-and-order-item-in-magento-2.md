@@ -3,6 +3,15 @@ layout: default
 title:  How to add custom product attribute to quote and order item in Magento 2
 permalink: /how-to-add-custom-filed-to-quote-and-order-item-in-magento-2.html
 ---
+**[Home](https://supravatm.github.io/) >> [Blog](/blogs.html) >> How to add custom product attribute to quote and order item in Magento 2**
+
+##  How to add custom product attribute to quote and order item in Magento 2
+<small>
+    <i class="fa-regular fa-calendar"></i> {{ page.date | date: "%b %-d, %Y" }}  &nbsp; &nbsp;
+    <i class="fa-regular fa-clock"></i> 5 min read
+</small>
+
+
 
 
 ##### 1. Register A Module: 
